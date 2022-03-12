@@ -1,5 +1,4 @@
 ### Hi there 👋
-Hi there 👋
 
 - 🔭 I am currently working on Web Development with .NET 
 - 🌱 I’m currently learning C#
