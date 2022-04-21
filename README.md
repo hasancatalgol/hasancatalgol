@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I am currently working on Web Development with .NET 
+- 🔭 I am currently working on Web Development with Streamlit
 - 🌱 I’m currently learning Web Development
 - 👯 I’m looking to collaborate on Data Science/Analytics 
 - 🤔 I’m looking for help with Statistics
