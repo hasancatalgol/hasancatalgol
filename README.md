@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![lf20_gneejfiq](https://assets9.lottiefiles.com/packages/lf20_gneejfiq.json)
 - 🔭 I am currently working on Web Development with Streamlit
 - 🌱 I’m currently learning Web Development
 - 👯 I’m looking to collaborate on Data Science/Analytics 
