@@ -1,6 +1,5 @@
 ### Hi there 👋
-
-![lf20_gneejfiq](https://assets9.lottiefiles.com/packages/lf20_gneejfiq.json)
+<img src="https://assets9.lottiefiles.com/packages/lf20_gneejfiq.json" width="128"/>
 
 - 🔭 I am currently working on Web Development with Streamlit
 - 🌱 I’m currently learning Web Development
