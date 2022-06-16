@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - 🔭 I am currently working on Streamlit
-- 🌱 I’m currently learning Web Development
-- 👯 I’m looking to collaborate on Data Science/Analytics 
+- 🌱 I put my soul into my work(as long as I am given enough time to show my art)
+- 👯 I’m looking to collaborate on Data Science/Analytics or BI 
 - 🤔 I’m looking for help with Statistics
 - 💬 Ask me about anything really
 
