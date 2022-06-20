@@ -1,9 +1,9 @@
 ### Hi there. 👋
-
+- 💬 HALF of my projects doesn't shown here because I am editing readme files and clearning the codes. But I can provide them if asked.
 - 🔭 I am currently working on Streamlit
 - 🌱 I put my soul into my work(as long as I am given enough time to show my art)
 - 👯 I’m looking to collaborate on Data Science/Analytics or BI 
-- 💬 Some of my projects is not listed in because I am editing readme files and clearning the codes.
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
