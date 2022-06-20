@@ -1,10 +1,9 @@
-### Hi there 👋
+### Hi there. 👋
 
 - 🔭 I am currently working on Streamlit
 - 🌱 I put my soul into my work(as long as I am given enough time to show my art)
 - 👯 I’m looking to collaborate on Data Science/Analytics or BI 
-- 🤔 I’m looking for help with Statistics
-- 💬 Ask me about anything really
+- 💬 Some of my projects is not listed in because I am editing readme files and clearning the codes.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
