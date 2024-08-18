@@ -1,8 +1,7 @@
 ### Hi there. 👋
-- 💬 HALF of my projects doesn't shown here because I am editing readme files and clearning the codes. But I can provide them if asked.
 - 🔭 I am currently working on Python
 - 🌱 I put my soul into my work(as long as I am given enough time to show my art)
-- 👯 I’m looking to collaborate on Data Science/Analytics or BI 
+- 👯 I’m looking to collaborate on Data Engineers
 
 
 <h3 align="left">Connect with me:</h3>
