@@ -1,7 +1,6 @@
 ### Hi there. 👋
 - 🔭 I am currently working on Python
 - 🌱 I put my soul into my work(as long as I am given enough time to show my art)
-- 👯 I’m looking to collaborate on Data Engineers
 
 
 <h3 align="left">Connect with me:</h3>
