@@ -83,7 +83,7 @@
 ### 📊 Analytics Engineering & Reporting
 <p align="left">
   <a href="https://www.getdbt.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/dbt.svg" alt="dbt" width="40" height="40"/>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVRm6m-3LrJFTQ0X8t50wAbamRc7vBPxmOJA&s" alt="dbt" width="40" height="40"/>
   </a>
   <a href="https://dagster.io/" target="_blank">
     <img src="https://cdn.prod.website-files.com/65264f6bf54e751c3a776db1/66912e16664b84d65aa114e7_dagster-icon.png" alt="Dagster" width="40" height="40"/>
