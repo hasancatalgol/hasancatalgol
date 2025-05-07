@@ -1,5 +1,4 @@
 ### Hi there. 👋
-![gitartwork](gitartwork.svg)
 
 
 ## Data Engineering Repositories
