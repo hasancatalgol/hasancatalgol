@@ -28,7 +28,7 @@
     <img src="https://flink.apache.org/img/logo/png/500/flink_squirrel_500.png" alt="Flink" width="40" height="40"/>
   </a>
   <a href="https://spark.apache.org/" target="_blank">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpYjJum800-sDfZz-8yznUui_7lUYzeoFOcg&s" alt="Spark" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="Spark" width="100" height="40"/>
   </a>
   <a href="https://nifi.apache.org/" target="_blank">
     <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSobNdHhEEdmQgAcBEEZj9Zeq4RtEuPs-i-kanz05CGW8aemPWS8KReFfFoJjhsk6tdIWnz10K7K2RQTYTiefCyMBWmgyo3WLwh780ftif6wwwEDeyCE-UVw56UWN5xM4n6IfOMhU6Oxk/s1600/nifi-logo-horizontal.png" alt="NiFi" width="70" height="40"/>
