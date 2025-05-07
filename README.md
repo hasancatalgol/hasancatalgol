@@ -44,7 +44,7 @@
     <img src="https://py.iceberg.apache.org/assets/images/iceberg-logo-icon.png" alt="Iceberg" width="40" height="40"/>
   </a>
   <a href="https://trino.io/" target="_blank">
-    <img src="https://avatars.githubusercontent.com/u/34147222?s=200&v=4" alt="Trino" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Trino-logo-w-bk.svg/1200px-Trino-logo-w-bk.svg.png" alt="Trino" width="80" height="40"/>
   </a>
 </p>
 
