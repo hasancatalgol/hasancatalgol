@@ -19,19 +19,19 @@
 ### 🚀 Big Data Processing Frameworks
 <p align="left">
   <a href="https://kafka.apache.org/" target="_blank">
-    <img src="https://data.it-novum.com/wp-content/uploads/2021/02/apache_kafka_logo-768x350.png" alt="Kafka" width="90" height="40"/>
+    <img src="https://cdn.iconscout.com/icon/free/png-256/free-kafka-icon-download-in-svg-png-gif-file-formats--logo-brand-world-logos-vol-1-pack-icons-282292.png" alt="Kafka" width="40" height="40"/>
   </a>
   <a href="https://debezium.io/" target="_blank">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOnsqciB8ZxZQnY4jINjODRvMXCP06YqXyTA&s" alt="Debezium" width="170" height="40"/>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhgJU7oP6_rE9CsdXB3aiT20-t_aWsd700oQ&s" alt="Debezium" width="40" height="40"/>
   </a>
   <a href="https://flink.apache.org/" target="_blank">
-    <img src="https://www.zdnet.com/a/img/resize/a1f48af0cbe99d7bd0170f67bac75da45bb0f95c/2017/04/05/05461e4e-4a8c-4c7e-aefe-9cea3fe6fc11/flink-logo.jpg?auto=webp&fit=crop&height=675&width=1200" alt="Flink" width="70" height="40"/>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnv7ifl2_Rvz3Za9Phpw3hmjOQsaalL7eCzA&s" alt="Flink" width="40" height="40"/>
   </a>
   <a href="https://spark.apache.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="Spark" width="100" height="40"/>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpYjJum800-sDfZz-8yznUui_7lUYzeoFOcg&s" alt="Spark" width="40" height="40"/>
   </a>
   <a href="https://nifi.apache.org/" target="_blank">
-    <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSobNdHhEEdmQgAcBEEZj9Zeq4RtEuPs-i-kanz05CGW8aemPWS8KReFfFoJjhsk6tdIWnz10K7K2RQTYTiefCyMBWmgyo3WLwh780ftif6wwwEDeyCE-UVw56UWN5xM4n6IfOMhU6Oxk/s1600/nifi-logo-horizontal.png" alt="NiFi" width="70" height="40"/>
+    <img src="https://images.icon-icons.com/2699/PNG/512/apache_nifi_logo_icon_168614.png" alt="NiFi" width="40" height="50"/>
   </a>
 </p>
 
