@@ -70,7 +70,7 @@
 ### 🤖 Machine Learning
 <p align="left">
   <a href="https://aws.amazon.com/sagemaker/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/amazonsagemaker.svg" alt="SageMaker" width="40" height="40"/>
+    <img src="https://miro.medium.com/v2/resize:fit:512/1*2VrAFwGLDTenUIOKqmksEg.png" alt="SageMaker" width="40" height="40"/>
   </a>
   <a href="https://aws.amazon.com/bedrock/" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/amazonaws.svg" alt="AWS Bedrock" width="40" height="40"/>
