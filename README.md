@@ -5,7 +5,7 @@
 - 🌱 I put my soul into my work (as long as I am given enough time to show my art)
 - 
 <details>
-  <summary> 📂 My Personal Projects/Repositories 👇</summary>
+  <summary> Click here 👇 to see my Personal Projects/Repositories 📂  </summary>
   
   - [real-time-flow](https://github.com/hasancatalgol/real-time-flow)  
   - [iceflow-pipeline](https://github.com/hasancatalgol/iceflow-pipeline)  
