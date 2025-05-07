@@ -1,13 +1,11 @@
 ### Hi there. 👋
 ![gitartwork](gitartwork.svg)
-- 🔭 I am currently working on a lot of things.
-- 💬 Ask me about **Data Engineering**
-- 🌱 I put my soul into my work (as long as I am given enough time to show my art)
 
 <details>
   <summary> CLICK HERE to see my Personal Projects/Repositories 📂  </summary>
 
-    ## Data Engineering Repositories
+
+  ## Data Engineering Repositories
   
   - **[Real-time Processing Pipeline](https://github.com/hasancatalgol/real-time-flow)**  
     MSSQL Server, Kafka Connect, Debezium, Kafka, Flink and Postgres
