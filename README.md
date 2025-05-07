@@ -7,19 +7,43 @@
 <details>
   <summary> Click here 👇 to see my Personal Projects/Repositories 📂  </summary>
   
-  - [real-time-flow](https://github.com/hasancatalgol/real-time-flow)  
-  - [iceflow-pipeline](https://github.com/hasancatalgol/iceflow-pipeline)  
-  - [ml-postgres](https://github.com/hasancatalgol/ml-postgres)  
-  - [ccdak-setup](https://github.com/hasancatalgol/ccdak-setup)  
-  - [iceberg-dremio-minio](https://github.com/hasancatalgol/iceberg-dremio-minio)  
-  - [sqlmesh-project](https://github.com/hasancatalgol/sqlmesh-project)  
-  - [body_measurement_prediction](https://github.com/hasancatalgol/body_measurement_prediction)  
-  - [customer_lifetime_value_part1](https://github.com/hasancatalgol/customer_lifetime_value_part1)  
-  - [churn_modelling](https://github.com/hasancatalgol/churn_modelling)  
-  - [level_based_persona](https://github.com/hasancatalgol/level_based_persona)  
-  - [RFM](https://github.com/hasancatalgol/RFM)  
-  - [level_based_persona_streamlit](https://github.com/hasancatalgol/level_based_persona_streamlit)
-  -  
+    - **[real-time-flow](https://github.com/hasancatalgol/real-time-flow)**  
+    Docker Compose setup for Airflow, Spark, Iceberg, Hive Metastore, MinIO & Trino.
+
+  - **[iceflow-pipeline](https://github.com/hasancatalgol/iceflow-pipeline)**  
+    Automated Iceberg table ingestion pipeline using Apache Spark.
+
+  - **[ml-postgres](https://github.com/hasancatalgol/ml-postgres)**  
+    Examples of training & serving ML models with PostgreSQL as storage.
+
+  - **[ccdak-setup](https://github.com/hasancatalgol/ccdak-setup)**  
+    Debezium CDC + Kafka Connect configuration scripts.
+
+  - **[iceberg-dremio-minio](https://github.com/hasancatalgol/iceberg-dremio-minio)**  
+    Demo of integrating Apache Iceberg with Dremio over MinIO.
+
+  - **[sqlmesh-project](https://github.com/hasancatalgol/sqlmesh-project)**  
+    Sample ETL orchestration demo using SQLMesh.
+
+  - **[body_measurement_prediction](https://github.com/hasancatalgol/body_measurement_prediction)**  
+    Regression models predicting body measurements.
+
+  - **[customer_lifetime_value_part1](https://github.com/hasancatalgol/customer_lifetime_value_part1)**  
+    Calculating customer lifetime value CLV 
+
+  - **[churn_modelling](https://github.com/hasancatalgol/churn_modelling)**  
+    Building and evaluating customer churn prediction models.
+
+  - **[level_based_persona](https://github.com/hasancatalgol/level_based_persona)**  
+    Customer persona segmentation with a level-based approach.
+
+  - **[RFM](https://github.com/hasancatalgol/RFM)**  
+    RFM (Recency, Frequency, Monetary) analysis for customer segmentation.
+
+  - **[level_based_persona_streamlit](https://github.com/hasancatalgol/level_based_persona_streamlit)**  
+    Streamlit app visualizing level-based personas.
+
+
 </details>
 
 ## 🛠️ Technologies & Tools
