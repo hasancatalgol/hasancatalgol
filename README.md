@@ -16,7 +16,6 @@
 
 ## 🛠️ Technologies & Tools
 
-### 🚀 Big Data Processing Frameworks
 <p align="left">
   <a href="https://kafka.apache.org/" target="_blank">
     <img src="https://cdn.iconscout.com/icon/free/png-256/free-kafka-icon-download-in-svg-png-gif-file-formats--logo-brand-world-logos-vol-1-pack-icons-282292.png" alt="Kafka" width="40" height="40"/>
@@ -33,10 +32,6 @@
   <a href="https://nifi.apache.org/" target="_blank">
     <img src="https://images.icon-icons.com/2699/PNG/512/apache_nifi_logo_icon_168614.png" alt="NiFi" width="45" height="40"/>
   </a>
-</p>
-
-### 💾 Data Lakehouse & Query Engines
-<p align="left">
   <a href="https://delta.io/" target="_blank">
     <img src="https://blog.ippon.fr/content/images/2022/02/Delta-Lake-1.png" alt="Delta Lake" width="50" height="40"/>
   </a>
@@ -46,10 +41,6 @@
   <a href="https://trino.io/" target="_blank">
     <img src="https://ia801808.us.archive.org/33/items/github.com-trinodb-trino_-_2020-12-30_02-49-21/cover.jpg" alt="Trino" width="40" height="40"/>
   </a>
-</p>
-
-### ☁️ Data & Cloud Platforms
-<p align="left">
   <a href="https://databricks.com/" target="_blank">
     <img src="https://cdn.prod.website-files.com/601064f495f4b4967f921aa9/64246984585c9225aa4e4fc4_databricks.png" alt="Databricks" width="40" height="40"/>
   </a>
@@ -65,10 +56,6 @@
   <a href="https://azure.microsoft.com/tr-tr/pricing/details/microsoft-fabric/" target="_blank">
     <img src="https://static.wikia.nocookie.net/logopedia/images/a/aa/Microsoft_Fabric_2023.svg/revision/latest/scale-to-width-down/200?cb=20230528223239" alt="Fabric" width="40" height="40"/>
   </a>
-</p>
-
-### 🤖 Machine Learning
-<p align="left">
   <a href="https://aws.amazon.com/sagemaker/" target="_blank">
     <img src="https://miro.medium.com/v2/resize:fit:512/1*2VrAFwGLDTenUIOKqmksEg.png" alt="SageMaker" width="50" height="50"/>
   </a>
@@ -78,10 +65,6 @@
   <a href="https://mlflow.org/" target="_blank">
     <img src="https://miro.medium.com/v2/resize:fit:750/0*0e0rrfSvf7lXxdHR.png" alt="MLflow" width="100" height="40"/>
   </a>
-</p>
-
-### 📊 Analytics Engineering & Reporting
-<p align="left">
   <a href="https://www.getdbt.com/" target="_blank">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVRm6m-3LrJFTQ0X8t50wAbamRc7vBPxmOJA&s" alt="dbt" width="40" height="40"/>
   </a>
@@ -94,10 +77,6 @@
   <a href="https://powerbi.microsoft.com/" target="_blank">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE9Vhv2E4RHVoCSDtKSS_1Zqj_6JffhTX7ow&s" alt="Power BI" width="40" height="40"/>
   </a>
-</p>
-
-### 💻 Programming Languages
-<p align="left">
   <a href="https://www.python.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   </a>
@@ -107,10 +86,6 @@
   <a href="https://www.java.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   </a>
-</p>
-
-### 🏛️ On-Premise Data Warehousing
-<p align="left">
   <a href="https://docs.microsoft.com/sql/t-sql/" target="_blank">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwKXHMyMBX4vEkmdyLmZVKK9_Qs8wZX24dWw&s" alt="Microsoft SQL Server" width="40" height="40"/>
   </a>
@@ -123,10 +98,6 @@
   <a href="https://min.io/" target="_blank">
     <img src="https://cdn.worldvectorlogo.com/logos/minio-1.svg" alt="MinIO" width="40" height="40"/>
   </a>
-</p>
-
-### ⚙️ Infrastructure & DevOps
-<p align="left">
   <a href="https://www.docker.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
   </a>
@@ -139,10 +110,6 @@
   <a href="https://www.terraform.io/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="Terraform" width="40" height="40"/>
   </a>
-</p>
-
-### 🔍 Monitoring & Observability
-<p align="left">
   <a href="https://www.elastic.co/elasticsearch/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original.svg" alt="Elasticsearch" width="40" height="40"/>
   </a>
@@ -152,10 +119,6 @@
   <a href="https://grafana.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/grafana.svg" alt="Grafana" width="40" height="40"/>
   </a>
-</p>
-
-### 🗂️ Workflow Orchestration & Automation
-<p align="left">
   <a href="https://airflow.apache.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apacheairflow/apacheairflow-original.svg" alt="Airflow" width="40" height="40"/>
   </a>
