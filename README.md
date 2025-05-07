@@ -59,23 +59,8 @@
   <a href="https://aws.amazon.com/glue/" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/amazonaws.svg" alt="AWS Glue" width="40" height="40"/>
   </a>
-  <a href="https://aws.amazon.com/emr/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/amazonemr.svg" alt="AWS EMR" width="40" height="40"/>
-  </a>
-  <a href="https://aws.amazon.com/kinesis/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/amazonkinesis.svg" alt="Kinesis" width="40" height="40"/>
-  </a>
-  <a href="https://aws.amazon.com/athena/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/amazonathena.svg" alt="Athena" width="40" height="40"/>
-  </a>
-  <a href="https://aws.amazon.com/rds/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/amazonrds.svg" alt="RDS" width="40" height="40"/>
-  </a>
-  <a href="https://aws.amazon.com/rds/aurora/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/amazonaurora.svg" alt="Aurora" width="40" height="40"/>
-  </a>
-  <a href="https://aws.amazon.com/dynamodb/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/amazondynamodb.svg" alt="DynamoDB" width="40" height="40"/>
+  <a href="https://azure.microsoft.com/tr-tr/pricing/details/microsoft-fabric/" target="_blank">
+    <img src="https://static.wikia.nocookie.net/logopedia/images/a/aa/Microsoft_Fabric_2023.svg/revision/latest/scale-to-width-down/200?cb=20230528223239" alt="AWS EMR" width="40" height="40"/>
   </a>
 </p>
 
