@@ -1,6 +1,6 @@
 ### Hi there. 👋
 ![gitartwork](gitartwork.svg)
-- 🔭 I am currently working on Python
+- 🔭 I am currently working on variety of projects simulatenously
 - 🌱 I put my soul into my work (as long as I am given enough time to show my art)
 
 ---  
