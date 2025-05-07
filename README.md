@@ -6,17 +6,16 @@
 
 <details>
   <summary> CLICK HERE to see my Personal Projects/Repositories 📂  </summary>
+
+    ## Data Engineering Repositories
   
-  - **[Real-time Processing Project](https://github.com/hasancatalgol/real-time-flow)**  
+  - **[Real-time Processing Pipeline](https://github.com/hasancatalgol/real-time-flow)**  
     MSSQL Server, Kafka Connect, Debezium, Kafka, Flink and Postgres
 
-  - **[iceflow-pipeline](https://github.com/hasancatalgol/iceflow-pipeline)**  
+  - **[Batch Processing Pipeline](https://github.com/hasancatalgol/iceflow-pipeline)**  
     Airflow 3, Spark, Iceberg, Hive Metastore as catalog, MinIO and Trino
 
-  - **[ml-postgres](https://github.com/hasancatalgol/ml-postgres)**  
-    End to End Postgres and MLflow Project from a data engineer perspective
-
-  - **[ccdak-setup](https://github.com/hasancatalgol/ccdak-setup)**  
+  - **[CCDAK](https://github.com/hasancatalgol/ccdak-setup)**  
     Confluent Certification for Apache Kafka Exam Setup
 
   - **[iceberg-dremio-minio](https://github.com/hasancatalgol/iceberg-dremio-minio)**  
@@ -24,6 +23,11 @@
 
   - **[sqlmesh-project](https://github.com/hasancatalgol/sqlmesh-project)**  
     Sample ETL orchestration demo using SQLMesh.
+
+    ## Machine Learning Repositories
+    
+  - **[ml-postgres](https://github.com/hasancatalgol/ml-postgres)**  
+    End to End Postgres and MLflow Project from a data engineer perspective
 
   - **[body_measurement_prediction](https://github.com/hasancatalgol/body_measurement_prediction)**  
     Regression models predicting body measurements.
