@@ -3,9 +3,21 @@
 - 🔭 I am currently working on a lot of things.
 - 💬 Ask me about **Data Engineering**
 - 🌱 I put my soul into my work (as long as I am given enough time to show my art)
+- 
 <details>
-  <summary> Click to see personal projects 👇</summary>
-  
+  <summary> 📂 My Personal Projects/Repositories 👇</summary>
+  - [real-time-flow](https://github.com/hasancatalgol/real-time-flow)  
+  - [iceflow-pipeline](https://github.com/hasancatalgol/iceflow-pipeline)  
+  - [ml-postgres](https://github.com/hasancatalgol/ml-postgres)  
+  - [ccdak-setup](https://github.com/hasancatalgol/ccdak-setup)  
+  - [iceberg-dremio-minio](https://github.com/hasancatalgol/iceberg-dremio-minio)  
+  - [sqlmesh-project](https://github.com/hasancatalgol/sqlmesh-project)  
+  - [body_measurement_prediction](https://github.com/hasancatalgol/body_measurement_prediction)  
+  - [customer_lifetime_value_part1](https://github.com/hasancatalgol/customer_lifetime_value_part1)  
+  - [churn_modelling](https://github.com/hasancatalgol/churn_modelling)  
+  - [level_based_persona](https://github.com/hasancatalgol/level_based_persona)  
+  - [RFM](https://github.com/hasancatalgol/RFM)  
+  - [level_based_persona_streamlit](https://github.com/hasancatalgol/level_based_persona_streamlit)  
 </details>
 
 
