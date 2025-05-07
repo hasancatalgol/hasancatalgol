@@ -3,18 +3,12 @@
 - 🔭 I am currently working on a lot of things.
 - 💬 Ask me about **Data Engineering**
 - 🌱 I put my soul into my work (as long as I am given enough time to show my art)
-
-## 📑 Table of Contents
-
-1. [About Me](#about-me)  
-2. [🚀 Technologies & Tools](#-technologies--tools)  
-3. [📊 GitHub Stats](#-github-stats)  
-4. [📌 Pinned Projects](#-pinned-projects)  
-5. [📫 Contact](#-contact)  
-6. [⚡ Fun Fact](#-fun-fact)
-
 <details>
-  <summary>🛠️ Technologies & Tools👇</summary>
+  <summary> Click to see personal projects 👇</summary>
+  
+</details>
+
+
 ## 🛠️ Technologies & Tools
 
 <p align="left">
@@ -139,7 +133,7 @@
     <img src="https://cdn.iconscout.com/icon/free/png-256/free-azure-devops-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-company-vol-1-pack-logos-icons-3029870.png?f=webp&w=256" alt="Azure DevOps" width="40" height="40"/>
   </a>  
 </p>
-</details>
+
 
 <p align="center">
   <img src="https://visitor-badge.glitch.me/badge?page_id=hasancatalgol.visitor-badge" alt="visitor badge"/>
