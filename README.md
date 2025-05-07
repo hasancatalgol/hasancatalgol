@@ -3,7 +3,7 @@
 - 🔭 I am currently working on a lot of things.
 - 💬 Ask me about **Data Engineering**
 - 🌱 I put my soul into my work (as long as I am given enough time to show my art)
-- 
+
 <details>
   <summary> CLICK HERE to see my Personal Projects/Repositories 📂  </summary>
   
