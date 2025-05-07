@@ -1,9 +1,16 @@
 ### Hi there. 👋
-![gitartwork](gitartwork.svg)
-- 🔭 I am currently working on variety of projects simulatenously
+- I am Hasan, a data professional working in Istanbul/Turkey with 3 years of experience.
+- 
 - 🌱 I put my soul into my work (as long as I am given enough time to show my art)
 - Check below to see my projects and tech stack
----  
+
+## 🚧 What I’m Working On
+
+- Building a real-time analytics pipeline with Kafka, Spark Structured Streaming & Iceberg  
+- Experimenting with MLflow model registry & GitOps deployment  
+- Exploring Kubernetes Operators for DataOps
+  
+⎯⎯⎯⎯⎯⎯⎯⎯⎯
 ## Data Engineering Repositories
   
   - **[Real-time Processing Pipeline](https://github.com/hasancatalgol/real-time-flow)**  
@@ -21,7 +28,7 @@
   - **[SQLMesh Demo](https://github.com/hasancatalgol/sqlmesh-project)**  
     Sample ETL orchestration demo using SQLMesh.
 
----  
+⎯⎯⎯⎯⎯⎯⎯⎯⎯
 ## Machine Learning Repositories
     
   - **[MlFlow Project](https://github.com/hasancatalgol/ml-postgres)**  
