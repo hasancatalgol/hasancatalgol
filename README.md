@@ -51,10 +51,10 @@
 ### ☁️ Data & Cloud Platforms
 <p align="left">
   <a href="https://databricks.com/" target="_blank">
-    <img src="https://images.seeklogo.com/logo-png/61/1/databricks-icon-logo-png_seeklogo-611588.png" alt="Databricks" width="40" height="40"/>
+    <img src="https://cdn.prod.website-files.com/601064f495f4b4967f921aa9/64246984585c9225aa4e4fc4_databricks.png" alt="Databricks" width="40" height="40"/>
   </a>
   <a href="https://www.snowflake.com/" target="_blank">
-    <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.45.0/files/dark/snowflake-color.png" alt="Snowflake" width="140" height="40"/>
+    <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.45.0/files/dark/snowflake-color.png" alt="Snowflake" width="40" height="40"/>
   </a>
   <a href="https://aws.amazon.com/glue/" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/amazonaws.svg" alt="AWS Glue" width="40" height="40"/>
