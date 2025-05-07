@@ -129,7 +129,7 @@
   </a>
 </p>
 <p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=hasancatalgol.visitor-badge.issue.1" alt="visitor badge"/>
+  <img src="https://visitor-badge.glitch.me/badge?page_id=hasancatalgol.visitor-badge" alt="visitor badge"/>
   <img src="https://komarev.com/ghpvc/?username=hasancatalgol&label=Profile%20views" alt="profile views"/>
 </p>
 <p align="center">
