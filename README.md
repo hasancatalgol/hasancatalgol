@@ -141,4 +141,18 @@
   </a>
 </p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hasancatalgol&show_icons=true&locale=en&layout=compact" alt="hasancatalgol" /></p>
+<p align="center">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=hasancatalgol.hasancatalgol" alt="visitor badge"/>
+  <img src="https://komarev.com/ghpvc/?username=hasancatalgol&label=Profile%20views" alt="profile views"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hasancatalgol&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasancatalgol&layout=compact&theme=radical" />
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hasancatalgol&margin-w=15&margin-h=15" />
+  <br/>
+  ![Lines of Code](https://github-readme-streak-stats.herokuapp.com/?user=hasancatalgol)
+</p>
+
 
