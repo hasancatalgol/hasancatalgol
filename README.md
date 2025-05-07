@@ -76,7 +76,7 @@
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/amazonaws.svg" alt="AWS Bedrock" width="40" height="40"/>
   </a>
   <a href="https://mlflow.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/mlflow.svg" alt="MLflow" width="40" height="40"/>
+    <img src="https://miro.medium.com/v2/resize:fit:750/0*0e0rrfSvf7lXxdHR.png" alt="MLflow" width="100" height="40"/>
   </a>
 </p>
 
