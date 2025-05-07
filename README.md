@@ -118,13 +118,13 @@
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwKXHMyMBX4vEkmdyLmZVKK9_Qs8wZX24dWw&s" alt="Microsoft SQL Server" width="40" height="40"/>
   </a>
   <a href="https://www.oracle.com/database/technologies/appdev/plsql.html" target="_blank">
-    <img src="https://1000logos.net/wp-content/uploads/2017/04/Oracle-Logo-1.png" alt="PL/SQL" width="80" height="40"/>
+    <img src="https://images.icon-icons.com/2699/PNG/512/oracle_logo_icon_168918.png" alt="PL/SQL" width="40" height="40"/>
   </a>
   <a href="https://www.postgresql.org/" target="_blank">
-    <img src="https://miro.medium.com/v2/resize:fit:512/0*ioDeujW3euLCfXew.png" alt="Postgres" width="100" height="40"/>
+    <img src="https://www.iconsdb.com/icons/preview/royal-azure-blue/postgresql-xxl.png" alt="Postgres" width="40" height="40"/>
   </a>
   <a href="https://min.io/" target="_blank">
-    <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1kco4frqn1sh3y3umvye.png" alt="MinIO" width="130" height="40"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/minio-1.svg" alt="MinIO" width="40" height="80"/>
   </a>
 </p>
 
