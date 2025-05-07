@@ -25,7 +25,7 @@
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOnsqciB8ZxZQnY4jINjODRvMXCP06YqXyTA&s" alt="Debezium" width="170" height="40"/>
   </a>
   <a href="https://flink.apache.org/" target="_blank">
-    <img src="https://www.zdnet.com/a/img/resize/a1f48af0cbe99d7bd0170f67bac75da45bb0f95c/2017/04/05/05461e4e-4a8c-4c7e-aefe-9cea3fe6fc11/flink-logo.jpg?auto=webp&fit=crop&height=675&width=1200" alt="Flink" width="50" height="40"/>
+    <img src="https://www.zdnet.com/a/img/resize/a1f48af0cbe99d7bd0170f67bac75da45bb0f95c/2017/04/05/05461e4e-4a8c-4c7e-aefe-9cea3fe6fc11/flink-logo.jpg?auto=webp&fit=crop&height=675&width=1200" alt="Flink" width="70" height="40"/>
   </a>
   <a href="https://spark.apache.org/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="Spark" width="100" height="40"/>
