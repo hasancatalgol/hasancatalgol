@@ -22,7 +22,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" alt="Kafka" width="40" height="40"/>
   </a>
   <a href="https://debezium.io/" target="_blank">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOnsqciB8ZxZQnY4jINjODRvMXCP06YqXyTA&s" alt="Debezium" width="100" height="40"/>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOnsqciB8ZxZQnY4jINjODRvMXCP06YqXyTA&s" alt="Debezium" width="150" height="40"/>
   </a>
   <a href="https://flink.apache.org/" target="_blank">
     <img src="https://flink.apache.org/img/logo/png/500/flink_squirrel_500.png" alt="Flink" width="40" height="40"/>
