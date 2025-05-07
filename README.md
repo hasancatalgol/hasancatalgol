@@ -6,6 +6,7 @@
 - 
 <details>
   <summary> 📂 My Personal Projects/Repositories 👇</summary>
+  
   - [real-time-flow](https://github.com/hasancatalgol/real-time-flow)  
   - [iceflow-pipeline](https://github.com/hasancatalgol/iceflow-pipeline)  
   - [ml-postgres](https://github.com/hasancatalgol/ml-postgres)  
@@ -17,9 +18,9 @@
   - [churn_modelling](https://github.com/hasancatalgol/churn_modelling)  
   - [level_based_persona](https://github.com/hasancatalgol/level_based_persona)  
   - [RFM](https://github.com/hasancatalgol/RFM)  
-  - [level_based_persona_streamlit](https://github.com/hasancatalgol/level_based_persona_streamlit)  
+  - [level_based_persona_streamlit](https://github.com/hasancatalgol/level_based_persona_streamlit)
+  -  
 </details>
-
 
 ## 🛠️ Technologies & Tools
 
