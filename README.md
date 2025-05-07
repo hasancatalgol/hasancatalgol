@@ -38,13 +38,13 @@
 ### 💾 Data Lakehouse & Query Engines
 <p align="left">
   <a href="https://delta.io/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/deltalake.svg" alt="Delta Lake" width="40" height="40"/>
+    <img src="https://yt3.googleusercontent.com/ytc/AIdro_kUtw0M14JfZjHro5WTdM2Eb_EJUt70HdCZpg7ub0r5fg=s900-c-k-c0x00ffffff-no-rj" alt="Delta Lake" width="40" height="40"/>
   </a>
   <a href="https://iceberg.apache.org/" target="_blank">
-    <img src="https://avatars.githubusercontent.com/u/59576257?s=200&v=4" alt="Iceberg" width="40" height="40"/>
+    <img src="https://py.iceberg.apache.org/assets/images/iceberg-logo-icon.png" alt="Iceberg" width="40" height="40"/>
   </a>
   <a href="https://trino.io/" target="_blank">
-    <img src="https://raw.githubusercontent.com/trinodb/trino-www/master/docs/img/favicon/favicon-32x32.png" alt="Trino" width="40" height="40"/>
+    <img src="https://avatars.githubusercontent.com/u/34147222?s=200&v=4" alt="Trino" width="40" height="40"/>
   </a>
 </p>
 
