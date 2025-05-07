@@ -70,10 +70,10 @@
 ### 🤖 Machine Learning
 <p align="left">
   <a href="https://aws.amazon.com/sagemaker/" target="_blank">
-    <img src="https://miro.medium.com/v2/resize:fit:512/1*2VrAFwGLDTenUIOKqmksEg.png" alt="SageMaker" width="40" height="40"/>
+    <img src="https://miro.medium.com/v2/resize:fit:512/1*2VrAFwGLDTenUIOKqmksEg.png" alt="SageMaker" width="50" height="50"/>
   </a>
   <a href="https://aws.amazon.com/bedrock/" target="_blank">
-    <img src="https://www.outsystems.com/Forge_CW/_image.aspx/Q8LvY--6WakOw9afDCuuGQ_Q2qNoQaT-xrNXdmgM4dI=/aws-bedrock-connector-2023-01-04%2000-00-00-2025-03-07%2012-01-34" alt="AWS Bedrock" width="40" height="40"/>
+    <img src="https://www.outsystems.com/Forge_CW/_image.aspx/Q8LvY--6WakOw9afDCuuGQ_Q2qNoQaT-xrNXdmgM4dI=/aws-bedrock-connector-2023-01-04%2000-00-00-2025-03-07%2012-01-34" alt="AWS Bedrock" width="50" height="50"/>
   </a>
   <a href="https://mlflow.org/" target="_blank">
     <img src="https://miro.medium.com/v2/resize:fit:750/0*0e0rrfSvf7lXxdHR.png" alt="MLflow" width="100" height="40"/>
