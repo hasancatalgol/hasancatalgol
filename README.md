@@ -174,9 +174,6 @@
   <a href="https://airflow.apache.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apacheairflow/apacheairflow-original.svg" alt="Airflow" width="40" height="40"/>
   </a>
-  <a href="https://dagster.io/" target="_blank">
-    <img src="https://raw.githubusercontent.com/dagster-io/dagster/master/images/dagster_icon.svg" alt="Dagster" width="40" height="40"/>
-  </a>
   <a href="https://github.com/features/actions" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/githubactions.svg" alt="GitHub Actions" width="40" height="40"/>
   </a>
