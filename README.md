@@ -38,7 +38,7 @@
   - **[RFM Analysis](https://github.com/hasancatalgol/RFM)**  
     RFM (Recency, Frequency, Monetary) analysis for customer segmentation.
 
-  - **[A simple Streamlit ML app](https://github.com/hasancatalgol/level_based_persona_streamlit)**  
+  - **[A Streamlit Machine Learning App](https://github.com/hasancatalgol/level_based_persona_streamlit)**  
     Streamlit app visualizing level-based personas.
 
 
