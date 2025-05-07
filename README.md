@@ -22,13 +22,13 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" alt="Kafka" width="40" height="40"/>
   </a>
   <a href="https://debezium.io/" target="_blank">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR630md0OqVBq3r-u79RXUG7nlakhvdKBGhuQ&s" alt="Debezium" width="40" height="40"/>
+    <img src="https://avatars.githubusercontent.com/u/11964329?v=4" alt="Debezium" width="40" height="40"/>
   </a>
   <a href="https://flink.apache.org/" target="_blank">
     <img src="https://flink.apache.org/img/logo/png/500/flink_squirrel_500.png" alt="Flink" width="40" height="40"/>
   </a>
   <a href="https://spark.apache.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" alt="Spark" width="40" height="40"/>
+    <img src="https://images.seeklogo.com/logo-png/34/1/apache-spark-logo-png_seeklogo-349535.png" alt="Spark" width="40" height="40"/>
   </a>
   <a href="https://nifi.apache.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache-nifi/apache-nifi-original.svg" alt="NiFi" width="40" height="40"/>
