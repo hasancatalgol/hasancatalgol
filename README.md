@@ -44,17 +44,17 @@
     <img src="https://py.iceberg.apache.org/assets/images/iceberg-logo-icon.png" alt="Iceberg" width="40" height="40"/>
   </a>
   <a href="https://trino.io/" target="_blank">
-    <img src="https://trino.io/assets/trino-dark.png" alt="Trino" width="40" height="40"/>
+    <img src="https://ia801808.us.archive.org/33/items/github.com-trinodb-trino_-_2020-12-30_02-49-21/cover.jpg" alt="Trino" width="40" height="40"/>
   </a>
 </p>
 
 ### ☁️ Data & Cloud Platforms
 <p align="left">
   <a href="https://databricks.com/" target="_blank">
-    <img src="https://synd.io/wp-content/uploads/2022/05/databricks-1.png" alt="Databricks" width="110" height="40"/>
+    <img src="https://images.seeklogo.com/logo-png/61/1/databricks-icon-logo-png_seeklogo-611588.png" alt="Databricks" width="40" height="40"/>
   </a>
   <a href="https://www.snowflake.com/" target="_blank">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiqSAnOUn5yvQCgI6RRlpJnjTjzRvKdoTONW22v-Tfno5rBgyHptOLd2hdj3DuUfEIFw&usqp=CAU" alt="Snowflake" width="140" height="40"/>
+    <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.45.0/files/dark/snowflake-color.png" alt="Snowflake" width="140" height="40"/>
   </a>
   <a href="https://aws.amazon.com/glue/" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/amazonaws.svg" alt="AWS Glue" width="40" height="40"/>
