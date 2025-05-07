@@ -5,7 +5,7 @@
 - 🌱 I put my soul into my work (as long as I am given enough time to show my art)
 - 
 <details>
-  <summary> Click here 👇 to see my Personal Projects/Repositories 📂  </summary>
+  <summary> CLICK HERE to see my Personal Projects/Repositories 📂  </summary>
   
     - **[real-time-flow](https://github.com/hasancatalgol/real-time-flow)**  
     Docker Compose setup for Airflow, Spark, Iceberg, Hive Metastore, MinIO & Trino.
