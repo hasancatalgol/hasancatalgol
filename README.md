@@ -89,7 +89,7 @@
     <img src="https://cdn.prod.website-files.com/65264f6bf54e751c3a776db1/66912e16664b84d65aa114e7_dagster-icon.png" alt="Dagster" width="40" height="40"/>
   </a>
   <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/microsoftexcel.svg" alt="Excel" width="40" height="40"/>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTroU91FLk1e5CTmveZCstER9A-qLpJGNtZvA&s" alt="Excel" width="40" height="40"/>
   </a>
   <a href="https://powerbi.microsoft.com/" target="_blank">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE9Vhv2E4RHVoCSDtKSS_1Zqj_6JffhTX7ow&s" alt="Power BI" width="40" height="40"/>
