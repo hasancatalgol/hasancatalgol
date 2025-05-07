@@ -187,7 +187,7 @@
   <img 
     src="https://images.gr-assets.com/quotes/1424559768p8/158868.jpg" 
     alt="No legacy is so rich as honesty. — William Shakespeare" 
-    width="400" 
+    width="600" 
   />
 </p>
 
