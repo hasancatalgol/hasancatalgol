@@ -126,6 +126,6 @@
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/githubactions.svg" alt="GitHub Actions" width="40" height="40"/>
   </a>
   <a href="https://azure.microsoft.com/services/devops/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/azuredevops.svg" alt="Azure DevOps" width="40" height="40"/>
+    <img src="https://cdn.iconscout.com/icon/free/png-256/free-azure-devops-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-company-vol-1-pack-logos-icons-3029870.png?f=webp&w=256" alt="Azure DevOps" width="40" height="40"/>
   </a>
 </p>
