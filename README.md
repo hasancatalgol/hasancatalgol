@@ -4,7 +4,6 @@
 - 💬 Ask me about **Data Engineering**
 - 🌱 I put my soul into my work (as long as I am given enough time to show my art)
 <h3 align="left">Connect with me:</h3>
-📫 Email: hasancatalgol@gmail.com 
 <p align="left">
   <a href="https://www.linkedin.com/in/hasan-%C3%A7atalg%C3%B6l-953365206/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
