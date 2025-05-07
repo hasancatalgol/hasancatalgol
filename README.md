@@ -31,7 +31,7 @@
 ---  
 ## Machine Learning Repositories
     
-  - **[MlFlow Project](https://github.com/hasancatalgol/ml-postgres)**  
+  - **[MLflow Project](https://github.com/hasancatalgol/ml-postgres)**  
     End to End Postgres and MLflow Project from a data engineer perspective
 
   - **[Regression on Body Measurements Dataset](https://github.com/hasancatalgol/body_measurement_prediction)**  
