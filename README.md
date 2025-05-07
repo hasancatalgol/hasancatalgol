@@ -31,7 +31,7 @@
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpYjJum800-sDfZz-8yznUui_7lUYzeoFOcg&s" alt="Spark" width="40" height="40"/>
   </a>
   <a href="https://nifi.apache.org/" target="_blank">
-    <img src="https://images.icon-icons.com/2699/PNG/512/apache_nifi_logo_icon_168614.png" alt="NiFi" width="40" height="50"/>
+    <img src="https://images.icon-icons.com/2699/PNG/512/apache_nifi_logo_icon_168614.png" alt="NiFi" width="45" height="40"/>
   </a>
 </p>
 
