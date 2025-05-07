@@ -14,7 +14,7 @@
 6. [⚡ Fun Fact](#-fun-fact)
 
 <details>
-  <summary>Click to expand 👇</summary>
+  <summary>🛠️ Technologies & Tools👇</summary>
 ## 🛠️ Technologies & Tools
 
 <p align="left">
