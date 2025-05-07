@@ -2,7 +2,7 @@
 ![gitartwork](gitartwork.svg)
 
 
-  ## Data Engineering Repositories
+## Data Engineering Repositories
   
   - **[Real-time Processing Pipeline](https://github.com/hasancatalgol/real-time-flow)**  
     MSSQL Server, Kafka Connect, Debezium, Kafka, Flink and Postgres
@@ -13,30 +13,30 @@
   - **[CCDAK](https://github.com/hasancatalgol/ccdak-setup)**  
     Confluent Certification for Apache Kafka Exam Setup
 
-  - **[iceberg-dremio-minio](https://github.com/hasancatalgol/iceberg-dremio-minio)**  
+  - **[Dremio Demo](https://github.com/hasancatalgol/iceberg-dremio-minio)**  
     Demo of integrating Apache Iceberg with Dremio over MinIO.
 
-  - **[sqlmesh-project](https://github.com/hasancatalgol/sqlmesh-project)**  
+  - **[SQLMesh Demo](https://github.com/hasancatalgol/sqlmesh-project)**  
     Sample ETL orchestration demo using SQLMesh.
 
-    ## Machine Learning Repositories
+## Machine Learning Repositories
     
-  - **[ml-postgres](https://github.com/hasancatalgol/ml-postgres)**  
+  - **[MlFlow Project](https://github.com/hasancatalgol/ml-postgres)**  
     End to End Postgres and MLflow Project from a data engineer perspective
 
-  - **[body_measurement_prediction](https://github.com/hasancatalgol/body_measurement_prediction)**  
+  - **[Regression on Body Measurements Dataset](https://github.com/hasancatalgol/body_measurement_prediction)**  
     Regression models predicting body measurements.
 
-  - **[customer_lifetime_value_part1](https://github.com/hasancatalgol/customer_lifetime_value_part1)**  
+  - **[Customer Lifetime Value (CLV)](https://github.com/hasancatalgol/customer_lifetime_value_part1)**  
     Calculating customer lifetime value CLV 
 
-  - **[churn_modelling](https://github.com/hasancatalgol/churn_modelling)**  
+  - **[Churn Modelling](https://github.com/hasancatalgol/churn_modelling)**  
     Building and evaluating customer churn prediction models.
 
-  - **[level_based_persona](https://github.com/hasancatalgol/level_based_persona)**  
+  - **[Rule-Based Classification](https://github.com/hasancatalgol/level_based_persona)**  
     Customer persona segmentation with a level-based approach.
 
-  - **[RFM](https://github.com/hasancatalgol/RFM)**  
+  - **[RFM Analysis](https://github.com/hasancatalgol/RFM)**  
     RFM (Recency, Frequency, Monetary) analysis for customer segmentation.
 
   - **[A simple Streamlit ML app](https://github.com/hasancatalgol/level_based_persona_streamlit)**  
