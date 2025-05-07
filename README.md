@@ -19,7 +19,7 @@
 ### 🚀 Big Data Processing Frameworks
 <p align="left">
   <a href="https://kafka.apache.org/" target="_blank">
-    <img src="https://data.it-novum.com/wp-content/uploads/2021/02/apache_kafka_logo-768x350.png" alt="Kafka" width="110" height="40"/>
+    <img src="https://data.it-novum.com/wp-content/uploads/2021/02/apache_kafka_logo-768x350.png" alt="Kafka" width="90" height="40"/>
   </a>
   <a href="https://debezium.io/" target="_blank">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOnsqciB8ZxZQnY4jINjODRvMXCP06YqXyTA&s" alt="Debezium" width="170" height="40"/>
