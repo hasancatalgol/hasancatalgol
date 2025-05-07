@@ -134,8 +134,9 @@
   </a>  
 </p>
 
-
-<p align="center">
+<details>
+  <summary> Account Statistics</summary>
+  <p align="center">
   <img src="https://visitor-badge.glitch.me/badge?page_id=hasancatalgol.visitor-badge" alt="visitor badge"/>
   <img src="https://komarev.com/ghpvc/?username=hasancatalgol&label=Profile%20views" alt="profile views"/>
 </p>
@@ -143,3 +144,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=hasancatalgol&show_icons=true&theme=radical" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasancatalgol&layout=compact&theme=radical" />
 </p>
+  
+</details>
+
