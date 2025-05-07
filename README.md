@@ -115,7 +115,7 @@
 ### 🏛️ On-Premise Data Warehousing
 <p align="left">
   <a href="https://docs.microsoft.com/sql/t-sql/" target="_blank">
-    <img src="https://e7.pngegg.com/pngimages/484/694/png-clipart-logo-microsoft-sql-font-design-text-logo.png" alt="Microsoft SQL Server" width="140" height="40"/>
+    <img src="https://gfx3.senetic.com/akeneo-catalog/2/5/f/8/25f8796d1e5bf6282a170a1fa182d54161068c6e_SQL_Server.jpg" alt="Microsoft SQL Server" width="140" height="40"/>
   </a>
   <a href="https://www.oracle.com/database/technologies/appdev/plsql.html" target="_blank">
     <img src="https://1000logos.net/wp-content/uploads/2017/04/Oracle-Logo-1.png" alt="PL/SQL" width="80" height="40"/>
