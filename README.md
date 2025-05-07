@@ -181,6 +181,16 @@
 
 ---  
 
+## ⚡ Favourite Quote
+
+<p align="center">
+  <img 
+    src="https://images.gr-assets.com/quotes/1424559768p8/158868.jpg" 
+    alt="No legacy is so rich as honesty. — William Shakespeare" 
+    width="400" 
+  />
+</p>
+
 <details>
   <summary> Account Statistics</summary>
   <p align="center">
