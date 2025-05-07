@@ -7,7 +7,7 @@
 <details>
   <summary> CLICK HERE to see my Personal Projects/Repositories 📂  </summary>
   
-    - **[real-time-flow](https://github.com/hasancatalgol/real-time-flow)**  
+  - **[real-time-flow](https://github.com/hasancatalgol/real-time-flow)**  
     Docker Compose setup for Airflow, Spark, Iceberg, Hive Metastore, MinIO & Trino.
 
   - **[iceflow-pipeline](https://github.com/hasancatalgol/iceflow-pipeline)**  
