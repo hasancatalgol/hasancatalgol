@@ -7,17 +7,17 @@
 <details>
   <summary> CLICK HERE to see my Personal Projects/Repositories 📂  </summary>
   
-  - **[real-time-flow](https://github.com/hasancatalgol/real-time-flow)**  
-    Docker Compose setup for Airflow, Spark, Iceberg, Hive Metastore, MinIO & Trino.
+  - **[Real-time Processing Project](https://github.com/hasancatalgol/real-time-flow)**  
+    MSSQL Server, Kafka Connect, Debezium, Kafka, Flink and Postgres
 
   - **[iceflow-pipeline](https://github.com/hasancatalgol/iceflow-pipeline)**  
-    Automated Iceberg table ingestion pipeline using Apache Spark.
+    Airflow 3, Spark, Iceberg, Hive Metastore as catalog, MinIO and Trino
 
   - **[ml-postgres](https://github.com/hasancatalgol/ml-postgres)**  
-    Examples of training & serving ML models with PostgreSQL as storage.
+    End to End Postgres and MLflow Project from a data engineer perspective
 
   - **[ccdak-setup](https://github.com/hasancatalgol/ccdak-setup)**  
-    Debezium CDC + Kafka Connect configuration scripts.
+    Confluent Certification for Apache Kafka Exam Setup
 
   - **[iceberg-dremio-minio](https://github.com/hasancatalgol/iceberg-dremio-minio)**  
     Demo of integrating Apache Iceberg with Dremio over MinIO.
