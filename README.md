@@ -139,3 +139,4 @@
     <img src="https://cdn.iconscout.com/icon/free/png-256/free-azure-devops-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-company-vol-1-pack-logos-icons-3029870.png?f=webp&w=256" alt="Azure DevOps" width="40" height="40"/>
   </a>
 </p>
+[![Hasan's GitHub stats](https://github-readme-stats.vercel.app/api?username=hasancatalgol)](https://github.com/hasancatalgol/github-readme-stats)
