@@ -59,8 +59,11 @@
   <a href="https://aws.amazon.com/glue/" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/amazonaws.svg" alt="AWS Glue" width="40" height="40"/>
   </a>
+  <a href="https://azure.microsoft.com/tr-tr" target="_blank">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtm8uRc444DV-6FHChD5VKWkSNspoAOTbYUQ&s" alt="Azure" width="40" height="40"/>
+  </a>
   <a href="https://azure.microsoft.com/tr-tr/pricing/details/microsoft-fabric/" target="_blank">
-    <img src="https://static.wikia.nocookie.net/logopedia/images/a/aa/Microsoft_Fabric_2023.svg/revision/latest/scale-to-width-down/200?cb=20230528223239" alt="AWS EMR" width="40" height="40"/>
+    <img src="https://static.wikia.nocookie.net/logopedia/images/a/aa/Microsoft_Fabric_2023.svg/revision/latest/scale-to-width-down/200?cb=20230528223239" alt="Fabric" width="40" height="40"/>
   </a>
 </p>
 
