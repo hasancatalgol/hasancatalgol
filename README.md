@@ -38,10 +38,10 @@
 ### 💾 Data Lakehouse & Query Engines
 <p align="left">
   <a href="https://delta.io/" target="_blank">
-    <img src="https://media.licdn.com/dms/image/v2/C4D12AQFz46jU4sd9tQ/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1653461550378?e=2147483647&v=beta&t=XOV8JCfydrnFwHW4Cbe23Ipg0zw2VNAcdEZ7XmI8Hac" alt="Delta Lake" width="100" height="40"/>
+    <img src="https://media.licdn.com/dms/image/v2/C4D12AQFz46jU4sd9tQ/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1653461550378?e=2147483647&v=beta&t=XOV8JCfydrnFwHW4Cbe23Ipg0zw2VNAcdEZ7XmI8Hac" alt="Delta Lake" width="140" height="40"/>
   </a>
   <a href="https://iceberg.apache.org/" target="_blank">
-    <img src="https://py.iceberg.apache.org/assets/images/iceberg-logo-icon.png" alt="Iceberg" width="40" height="40"/>
+    <img src="https://miro.medium.com/v2/resize:fit:1050/0*pb_5zJATiepohn4D.jpg" alt="Iceberg" width="140" height="40"/>
   </a>
   <a href="https://trino.io/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Trino-logo-w-bk.svg/1200px-Trino-logo-w-bk.svg.png" alt="Trino" width="80" height="40"/>
