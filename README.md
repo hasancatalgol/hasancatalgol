@@ -150,9 +150,49 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasancatalgol&layout=compact&theme=radical" />
 </p>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hasancatalgol&margin-w=15&margin-h=15" />
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="200"/>
+</p>
+
+<!-- ==================== 🔭 GitHub Stats ==================== -->
+<details>
+  <summary>📊 My GitHub Stats</summary>
   <br/>
-  ![Lines of Code](https://github-readme-streak-stats.herokuapp.com/?user=hasancatalgol)
+  <p align="center">
+    <!-- Overall stats -->
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=hasancatalgol&
+        show_icons=true&
+        count_private=true&
+        include_all_commits=true&
+        theme=radical&
+        cache_seconds=86400"
+      alt="Hasan Çatalgöl's GitHub Stats" />
+    <!-- Top languages -->
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasancatalgol&
+        layout=compact&
+        theme=radical&
+        cache_seconds=86400"
+      alt="Most Used Languages" />
+  </p>
+</details>
+
+<!-- ==================== 🔥 Streak Stats ==================== -->
+<p align="center">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=hasancatalgol&
+      theme=radical&
+      date_format=j%20M%5B%20Y%5D"
+    alt="GitHub Streak" />
+</p>
+
+<!-- ==================== 👀 Profile Views ==================== -->
+<p align="center">
+  <img 
+    src="https://komarev.com/ghpvc/?username=hasancatalgol&
+      color=0e75b6&
+      style=flat"
+    alt="Profile views" />
 </p>
 
 
