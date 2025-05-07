@@ -124,7 +124,7 @@
     <img src="https://www.iconsdb.com/icons/preview/royal-azure-blue/postgresql-xxl.png" alt="Postgres" width="40" height="40"/>
   </a>
   <a href="https://min.io/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/minio-1.svg" alt="MinIO" width="40" height="80"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/minio-1.svg" alt="MinIO" width="40" height="40"/>
   </a>
 </p>
 
