@@ -118,10 +118,10 @@
     <img src="https://e7.pngegg.com/pngimages/484/694/png-clipart-logo-microsoft-sql-font-design-text-logo.png" alt="Microsoft SQL Server" width="140" height="40"/>
   </a>
   <a href="https://www.oracle.com/database/technologies/appdev/plsql.html" target="_blank">
-    <img src="https://1000logos.net/wp-content/uploads/2017/04/Oracle-Logo-1.png" alt="PL/SQL" width="100" height="40"/>
+    <img src="https://1000logos.net/wp-content/uploads/2017/04/Oracle-Logo-1.png" alt="PL/SQL" width="80" height="40"/>
   </a>
   <a href="https://www.postgresql.org/" target="_blank">
-    <img src="https://miro.medium.com/v2/resize:fit:512/0*ioDeujW3euLCfXew.png" alt="Postgres" width="120" height="40"/>
+    <img src="https://miro.medium.com/v2/resize:fit:512/0*ioDeujW3euLCfXew.png" alt="Postgres" width="100" height="40"/>
   </a>
   <a href="https://min.io/" target="_blank">
     <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1kco4frqn1sh3y3umvye.png" alt="MinIO" width="130" height="40"/>
