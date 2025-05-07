@@ -1,9 +1,6 @@
 ### Hi there. 👋
 ![gitartwork](gitartwork.svg)
 
-<details>
-  <summary> CLICK HERE to see my Personal Projects/Repositories 📂  </summary>
-
 
   ## Data Engineering Repositories
   
@@ -42,11 +39,9 @@
   - **[RFM](https://github.com/hasancatalgol/RFM)**  
     RFM (Recency, Frequency, Monetary) analysis for customer segmentation.
 
-  - **[level_based_persona_streamlit](https://github.com/hasancatalgol/level_based_persona_streamlit)**  
+  - **[A simple Streamlit ML app](https://github.com/hasancatalgol/level_based_persona_streamlit)**  
     Streamlit app visualizing level-based personas.
 
-
-</details>
 
 ## 🛠️ Technologies & Tools
 
