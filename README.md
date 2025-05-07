@@ -2,7 +2,7 @@
 ![gitartwork](gitartwork.svg)
 - 🔭 I am currently working on variety of projects simulatenously
 - 🌱 I put my soul into my work (as long as I am given enough time to show my art)
-
+- Check below to see my projects and tech stack
 ---  
 ## Data Engineering Repositories
   
