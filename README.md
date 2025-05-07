@@ -38,13 +38,13 @@
 ### 💾 Data Lakehouse & Query Engines
 <p align="left">
   <a href="https://delta.io/" target="_blank">
-    <img src="https://media.licdn.com/dms/image/v2/C4D12AQFz46jU4sd9tQ/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1653461550378?e=2147483647&v=beta&t=XOV8JCfydrnFwHW4Cbe23Ipg0zw2VNAcdEZ7XmI8Hac" alt="Delta Lake" width="170" height="40"/>
+    <img src="https://blog.ippon.fr/content/images/2022/02/Delta-Lake-1.png" alt="Delta Lake" width="170" height="40"/>
   </a>
   <a href="https://iceberg.apache.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Apache_Iceberg_Logo.svg/2560px-Apache_Iceberg_Logo.svg.png" alt="Iceberg" width="140" height="40"/>
+    <img src="https://py.iceberg.apache.org/assets/images/iceberg-logo-icon.png" alt="Iceberg" width="140" height="40"/>
   </a>
   <a href="https://trino.io/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Trino-logo-w-bk.svg/1200px-Trino-logo-w-bk.svg.png" alt="Trino" width="80" height="40"/>
+    <img src="https://trino.io/assets/trino-dark.png" alt="Trino" width="80" height="40"/>
   </a>
 </p>
 
