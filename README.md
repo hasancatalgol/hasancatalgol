@@ -1,7 +1,8 @@
 ### Hi there. 👋
 
 
-> ## Data Engineering Repositories
+---  
+## Data Engineering Repositories
   
   - **[Real-time Processing Pipeline](https://github.com/hasancatalgol/real-time-flow)**  
     MSSQL Server, Kafka Connect, Debezium, Kafka, Flink and Postgres
@@ -18,7 +19,8 @@
   - **[SQLMesh Demo](https://github.com/hasancatalgol/sqlmesh-project)**  
     Sample ETL orchestration demo using SQLMesh.
 
-> ## Machine Learning Repositories
+---  
+## Machine Learning Repositories
     
   - **[MlFlow Project](https://github.com/hasancatalgol/ml-postgres)**  
     End to End Postgres and MLflow Project from a data engineer perspective
@@ -42,6 +44,7 @@
     Streamlit app visualizing level-based personas.
 
 
+---  
 ## 🛠️ Technologies & Tools
 
 <p align="left">
@@ -167,6 +170,8 @@
   </a>  
 </p>
 
+---  
+
 <details>
   <summary> Account Statistics</summary>
   <p align="center">
@@ -179,4 +184,3 @@
 </p>
   
 </details>
-
