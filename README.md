@@ -195,7 +195,9 @@ These are the tools I’ve used to build scalable systems, design data platforms
 </p>
  
 ## 🧹 Underappreciated Skills
-You know why these skills matter. These usually don’t get headlines — but they keep teams moving and problems solved.
+If you've ever seen someone struggle to schedule a Zoom call, send an email, or open a screen recording—then watched a quiet hero step in and fix it—you understand.
+These may seem like basic tools, but many still fumble with them. I mastered them not because they were flashy, but because they were needed.
+They deserve recognition—and you know exactly why. 
 
 <p align="left">
 <!-- Bash -->
