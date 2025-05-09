@@ -203,7 +203,7 @@
 
 <!-- Heroku -->
 <a href="https://www.heroku.com/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c0/Heroku_logo.svg" alt="Heroku" width="40" height="40"/>
+  <img src="https://www.svgrepo.com/show/353869/heroku-icon.svg" alt="Heroku" width="40" height="40"/>
 </a>
 
 <!-- Adobe Photoshop -->
