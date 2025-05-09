@@ -194,8 +194,8 @@ These are the tools I’ve used to build scalable systems, design data platforms
   </a> 
 </p>
 
----
-## 🧹 Miscellaneous/UNDERAPPRECIATED Skills
+<details>
+  <summary> ## Underappreciated Skills </summary>
 These might look like “basic” tools — the kind everyone’s supposed to know.
 But when things break, it’s the heroes without capes who fix them.
 Whether learned out of necessity, a school project, a previous job, or just habit — these are real skills.
@@ -364,7 +364,7 @@ They deserve respect. And yes — they deserve to be paid.
   <img src="https://images.icon-icons.com/195/PNG/256/GOM_Player_23385.png" alt="GOM Player" width="40" height="40"/>
   </a>
 </p>
-
+</details>
 ---  
 
 ## ☀️ Favourite Quote
@@ -378,7 +378,7 @@ They deserve respect. And yes — they deserve to be paid.
 </p>
 
 <details>
-  <summary> 📊 Account Statistics </summary>
+  <summary> ## 📊 Account Statistics </summary>
   <p align="center">
   <img src="https://visitor-badge.glitch.me/badge?page_id=hasancatalgol.visitor-badge" alt="visitor badge"/>
   <img src="https://komarev.com/ghpvc/?username=hasancatalgol&label=Profile%20views" alt="profile views"/>
