@@ -183,6 +183,38 @@
   <a href="https://www.postman.com/" target="_blank">
     <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="Postman" width="40" height="40"/>
   </a>
+  <!-- Microsoft Word -->
+<a href="https://www.microsoft.com/en-us/microsoft-365/word" target="_blank">
+  <img src="https://www.svgrepo.com/show/373597/word.svg" alt="Microsoft Word" width="40" height="40"/>
+</a>
+<!-- Microsoft PowerPoint -->
+<a href="https://www.microsoft.com/en-us/microsoft-365/powerpoint" target="_blank">
+  <img src="https://www.svgrepo.com/show/373574/powerpoint.svg" alt="Microsoft PowerPoint" width="40" height="40"/>
+</a>
+<!-- Microsoft Outlook -->
+<a href="https://www.microsoft.com/en-us/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook" target="_blank">
+  <img src="https://www.svgrepo.com/show/373570/outlook.svg" alt="Microsoft Outlook" width="40" height="40"/>
+</a>
+
+<!-- Microsoft OneNote -->
+<a href="https://www.microsoft.com/en-us/microsoft-365/onenote/digital-note-taking-app" target="_blank">
+  <img src="https://www.svgrepo.com/show/373568/onenote.svg" alt="Microsoft OneNote" width="40" height="40"/>
+</a>
+
+<!-- Microsoft Teams -->
+<a href="https://www.microsoft.com/en/microsoft-teams/group-chat-software" target="_blank">
+  <img src="https://www.svgrepo.com/show/373589/teams.svg" alt="Microsoft Teams" width="40" height="40"/>
+</a>
+
+<!-- Microsoft Access -->
+<a href="https://www.microsoft.com/en-us/microsoft-365/access" target="_blank">
+  <img src="https://www.svgrepo.com/show/373519/access.svg" alt="Microsoft Access" width="40" height="40"/>
+</a>
+
+<!-- Microsoft OneDrive -->
+<a href="https://www.microsoft.com/en-us/microsoft-365/onedrive/online-cloud-storage" target="_blank">
+  <img src="https://www.svgrepo.com/show/373567/onedrive.svg" alt="Microsoft OneDrive" width="40" height="40"/>
+</a>
 
 
   
