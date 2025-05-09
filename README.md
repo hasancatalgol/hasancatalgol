@@ -250,7 +250,7 @@
   
   <!-- AutoCAD -->
   <a href="https://www.autodesk.com/products/autocad/" target="_blank">
-    <img src="https://images.seeklogo.com/logo-png/48/1/autocad-logo-png_seeklogo-482394.png" alt="AutoCAD" width="40" height="40"/>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw6Q4n-91yxCmYhW_AxUKuI_XhETVI_6fCBA&s" alt="AutoCAD" width="40" height="40"/>
   </a>
     <!-- Ubuntu -->
     <a href="https://ubuntu.com/" target="_blank">
