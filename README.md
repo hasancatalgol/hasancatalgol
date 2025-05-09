@@ -183,7 +183,7 @@
 </p>
 ---  
 
-## 🧩 Miscellaneous
+## 🧩 Miscellaneous/Under Appreciated Tools and Skills
 
 <p align="left">
 <a href="https://www.postman.com/" target="_blank">
@@ -216,8 +216,70 @@
   <a href="https://visualstudio.microsoft.com/tr/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/2060px-Visual_Studio_Icon_2019.svg.png" alt="VS Code" width="40" height="40"/>
   </a>
-
-
+  <!-- DataGrip -->
+  <a href="https://www.jetbrains.com/datagrip/" target="_blank">
+    <img src="https://worldvectorlogo.com/logos/datagrip-icon.svg" alt="DataGrip" width="40" height="40"/>
+  </a>
+  
+  <!-- IntelliJ IDEA -->
+  <a href="https://www.jetbrains.com/idea/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c0/IntelliJ_IDEA_Icon.svg" alt="IntelliJ IDEA" width="40" height="40"/>
+  </a>
+  
+  <!-- Ubuntu -->
+  <a href="https://ubuntu.com/" target="_blank">
+    <img src="https://worldvectorlogo.com/logos/ubuntu-1.svg" alt="Ubuntu" width="40" height="40"/>
+  </a>
+  
+  <!-- Windows -->
+  <a href="https://www.microsoft.com/windows/" target="_blank">
+    <img src="https://www.svgrepo.com/show/303144/windows-10-logo.svg" alt="Windows" width="40" height="40"/>
+  </a>
+  
+  <!-- Oracle VM VirtualBox -->
+  <a href="https://www.virtualbox.org/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-icon.svg" alt="Oracle VM VirtualBox" width="40" height="40"/>
+  </a>
+  
+  <!-- Bitwarden -->
+  <a href="https://bitwarden.com/" target="_blank">
+    <img src="https://www.svgrepo.com/show/349309/bitwarden.svg" alt="Bitwarden" width="40" height="40"/>
+  </a>
+  
+  <!-- Avast -->
+  <a href="https://www.avast.com/" target="_blank">
+    <img src="https://www.svgrepo.com/show/331297/avast.svg" alt="Avast" width="40" height="40"/>
+  </a>
+  
+  <!-- Bandicam -->
+  <a href="https://www.bandicam.com/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Bandicam_logo_vectorial.svg" alt="Bandicam" width="40" height="40"/>
+  </a>
+  
+  <!-- MobaXterm -->
+  <a href="https://mobaxterm.mobatek.net/" target="_blank">
+    <img src="https://icon-icons.com/icons2/2699/PNG/512/mobaxterm_logo_icon_168242.png" alt="MobaXterm" width="40" height="40"/>
+  </a>
+  
+  <!-- PuTTY -->
+  <a href="https://www.chiark.greenend.org.uk/~sgtatham/putty/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/PuTTY_Icon.svg" alt="PuTTY" width="40" height="40"/>
+  </a>
+  
+  <!-- Notepad++ -->
+  <a href="https://notepad-plus-plus.org/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/Notepad++_Logo.svg" alt="Notepad++" width="40" height="40"/>
+  </a>
+  
+  <!-- TeamViewer -->
+  <a href="https://www.teamviewer.com/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/TeamViewer_logo.svg" alt="TeamViewer" width="40" height="40"/>
+  </a>
+  
+  <!-- Zoom -->
+  <a href="https://zoom.us/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Zoom_Communications_Logo.svg" alt="Zoom" width="40" height="40"/>
+  </a>
 
   
 </p>
