@@ -27,12 +27,15 @@
 
   - **[SQLMesh Demo](https://github.com/hasancatalgol/sqlmesh-project)**  
     Sample ETL orchestration demo using SQLMesh.
-
+    
 ---  
 ## Machine Learning Repositories
     
   - **[MLflow Project](https://github.com/hasancatalgol/ml-postgres)**  
     End to End Postgres and MLflow Project from a data engineer perspective
+    
+  - **[Q-Learning Game](https://github.com/hasancatalgol/checkers-qlearning)**  
+    Simple Checkers game with Reinforcement Learning
 
   - **[Regression on Body Measurements Dataset](https://github.com/hasancatalgol/body_measurement_prediction)**  
     Regression models predicting body measurements.
