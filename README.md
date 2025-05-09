@@ -183,7 +183,7 @@
 </p>
 ---  
 
-## 🧩 Miscellaneous/Under Appreciated Tools and Skills
+## 🧩 Underappreciated Skills
 
 <p align="left">
 <a href="https://www.postman.com/" target="_blank">
