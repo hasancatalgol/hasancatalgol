@@ -286,29 +286,24 @@
   </a>
   <!-- Google Chrome -->
   <a href="https://www.google.com/chrome/" target="_blank">
-    <img src="https://www.svgrepo.com/show/373541/chrome.svg" alt="Google Chrome" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Google_Chrome_icon_%28February_2022%29.svg/768px-Google_Chrome_icon_%28February_2022%29.svg.png" alt="Google Chrome" width="40" height="40"/>
   </a>
   
   <!-- Mozilla Firefox -->
   <a href="https://www.mozilla.org/firefox/" target="_blank">
-    <img src="https://www.svgrepo.com/show/373702/firefox.svg" alt="Mozilla Firefox" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Firefox_logo%2C_2019.svg/1200px-Firefox_logo%2C_2019.svg.png" alt="Mozilla Firefox" width="40" height="40"/>
   </a>
   
   <!-- Microsoft Edge -->
   <a href="https://www.microsoft.com/edge" target="_blank">
-    <img src="https://www.svgrepo.com/show/354259/microsoft-edge.svg" alt="Microsoft Edge" width="40" height="40"/>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPBis4Zt4lqVZoOkm07USksn6EIrbimer7cw&s" alt="Microsoft Edge" width="40" height="40"/>
   </a>
 
   <!-- Opera Browser -->
   <a href="https://www.opera.com/" target="_blank">
-    <img src="https://www.svgrepo.com/show/354205/opera.svg" alt="Opera Browser" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Opera_2015_icon.svg/512px-Opera_2015_icon.svg.png?20210325220019" alt="Opera Browser" width="40" height="40"/>
   </a>
-  
-  <!-- Tor Browser -->
-  <a href="https://www.torproject.org/" target="_blank">
-    <img src="https://www.svgrepo.com/show/353992/tor.svg" alt="Tor Browser" width="40" height="40"/>
-  </a>
-  
+
 </p>
 
 ---  
