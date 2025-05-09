@@ -194,6 +194,18 @@ These are the tools I’ve used to build scalable systems, design data platforms
   </a> 
 </p>
 
+
+## ☀️ Favourite Quote
+
+<p align="center">
+  <img 
+    src="https://images.gr-assets.com/quotes/1424559768p8/158868.jpg" 
+    alt="Hard Work intensifies" 
+    width="600" 
+  />
+</p>
+
+
 <details>
   <summary> Underappreciated Skills </summary>
 These might look like “basic” tools — the kind everyone’s supposed to know.
@@ -366,16 +378,6 @@ They deserve respect. And yes — they deserve to be paid.
 </p>
 </details>
 ---  
-
-## ☀️ Favourite Quote
-
-<p align="center">
-  <img 
-    src="https://images.gr-assets.com/quotes/1424559768p8/158868.jpg" 
-    alt="Hard Work intensifies" 
-    width="600" 
-  />
-</p>
 
 <details>
   <summary> ## 📊 Account Statistics </summary>
