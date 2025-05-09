@@ -195,7 +195,6 @@ These are the tools I’ve used to build scalable systems, design data platforms
 </p>
 
 ---
-
 ## 🧹 Miscellaneous/UNDERAPPRECIATED Skills
 These might look like “basic” tools — the kind everyone’s supposed to know.
 But when things break, it’s the heroes without capes who fix them.
