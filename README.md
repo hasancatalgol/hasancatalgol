@@ -193,7 +193,7 @@
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbYQcLfUfqY6nAiwop5kkdkSvuKg0qzIc2TA&s" alt="Microsoft Word" width="40" height="40"/>
   </a>
   <a href="https://www.microsoft.com/en-us/microsoft-365/powerpoint" target="_blank">
-    <img src="https://images.freeimages.com/fic/images/icons/2795/office_2013_hd/2000/powerpoint.png" alt="Microsoft PowerPoint" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg/2203px-Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg.png" alt="Microsoft PowerPoint" width="40" height="40"/>
   </a>
   <a href="https://www.microsoft.com/en-us/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg/1101px-Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg.png" alt="Microsoft Outlook" width="40" height="40"/>
