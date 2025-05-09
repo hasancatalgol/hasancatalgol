@@ -192,183 +192,19 @@ some in professional settings, some in school, others through trainings, tutoria
   </a>
   <a href="https://streamlit.io/" target="_blank">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGDKmSgL7UJ6sstMUQTtjI2iDN7ClN2jRZ5Q&s" alt="Streamlit" width="40" height="40"/>
-  </a> 
-</p>
-
----
-
-<details>
-  <summary> 🚮 Underappreciated Skills </summary>
-These might look like “basic” tools — the kind everyone’s supposed to know.
-But when things break, it’s the heroes without capes who fix them.
-Whether learned out of necessity, a school project, a previous job, or just habit — these are real skills.
-They deserve respect. And yes — they deserve to be paid.
-
-<p align="left">
-<!-- Bash -->
-<a href="https://www.gnu.org/software/bash/" target="_blank">
+  </a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" alt="Bash" width="40" height="40"/>
-</a>
-
-<!-- Heroku -->
-<a href="https://www.heroku.com/" target="_blank">
-  <img src="https://www.svgrepo.com/show/353869/heroku-icon.svg" alt="Heroku" width="40" height="40"/>
-</a>
-
-<!-- Adobe Photoshop -->
-<a href="https://www.adobe.com/products/photoshop.html" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="Adobe Photoshop" width="40" height="40"/>
-</a>  
-<a href="https://www.anaconda.com/" target="_blank">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXqvREgueCenWgK3AOYf2Ggyz-jOISn5uJfg&s " alt="Anaconda" width="40" height="40"/>
-</a>
-<!-- RStudio -->
-<a href="https://posit.co/download/rstudio-desktop/" target="_blank">
-  <img src="https://cdn.worldvectorlogo.com/logos/r-lang.svg" alt="RStudio" width="40" height="40"/>
-</a>
-<a href="https://www.postman.com/" target="_blank">
-    <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="Postman" width="40" height="40"/>
   </a>
-  <a href="https://www.microsoft.com/en-us/microsoft-365/word" target="_blank">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbYQcLfUfqY6nAiwop5kkdkSvuKg0qzIc2TA&s" alt="Microsoft Word" width="40" height="40"/>
-  </a>
-  <a href="https://www.microsoft.com/en-us/microsoft-365/powerpoint" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg/2203px-Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg.png" alt="Microsoft PowerPoint" width="40" height="40"/>
-  </a>
-  <a href="https://www.microsoft.com/en-us/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg/1101px-Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg.png" alt="Microsoft Outlook" width="40" height="40"/>
-  </a>
-  <a href="https://www.microsoft.com/en-us/microsoft-365/onenote/digital-note-taking-ap" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Microsoft_Office_OneNote_%282019%E2%80%93present%29.svg/800px-Microsoft_Office_OneNote_%282019%E2%80%93present%29.svg.png" alt="Microsoft OneNote" width="40" height="40"/>
-  </a>
-  <a href="https://www.microsoft.com/en/microsoft-teams/group-chat-software" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Microsoft_Office_Teams_%282018%E2%80%93present%29.svg/1200px-Microsoft_Office_Teams_%282018%E2%80%93present%29.svg.png" alt="Microsoft Teams" width="40" height="40"/>
-  </a>
-  <a href="https://www.microsoft.com/en-us/microsoft-365/access" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Microsoft_Office_Access_%282019-present%29.svg/640px-Microsoft_Office_Access_%282019-present%29.svg.png" alt="Microsoft Access" width="40" height="40"/>
-  </a>
-  <a href="https://www.microsoft.com/en-us/microsoft-365/onedrive/online-cloud-storage" target="_blank">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3jYVz1ZKfVUO91XTBxkjxEZ2b6xJz7RG1lA&s" alt="Microsoft OneDrive" width="45" height="40"/>
-  </a>
-  <!-- Microsoft Project -->
-  <a href="https://www.microsoft.com/en-us/microsoft-365/project" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Microsoft_Project_%282019%E2%80%93present%29.svg/1200px-Microsoft_Project_%282019%E2%80%93present%29.svg.png" alt="Microsoft Project" width="40" height="40"/>
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png" alt="VS Code" width="40" height="40"/>
-  </a>
-  <a href="https://visualstudio.microsoft.com/tr/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/2060px-Visual_Studio_Icon_2019.svg.png" alt="VS Code" width="40" height="40"/>
-  </a>
-  <!-- DataGrip -->
-  <a href="https://www.jetbrains.com/datagrip/" target="_blank">
-    <img src="https://worldvectorlogo.com/logos/datagrip-icon.svg" alt="DataGrip" width="40" height="40"/>
-  </a>
-  <!-- IntelliJ IDEA -->
-  <a href="https://www.jetbrains.com/idea/" target="_blank">
-    <img src="https://www.btgsoft.com/wp-content/uploads/2023/04/IntelliJ_IDEA_icon.png" alt="IntelliJ IDEA" width="40" height="40"/>
-  </a>
-  <!-- Pycharm IDEA -->
-  <a href="https://www.jetbrains.com/pycharm/" target="_blank">
-    <img src="https://storage.caktusgroup.com/media/blog-images/logo.png" alt="Pycharm" width="40" height="40"/>
-  </a>
-  <!-- Primavera P6 -->
-  <a href="https://www.oracle.com/industries/construction-engineering/primavera-p6/" target="_blank">
-    <img src="https://play-lh.googleusercontent.com/z87Px8yV2bVg3QHSIXWUxsitJidAugYKpXIiL2vaKaKe-3TjaEAPSj4bnFNWTLU22oja" alt="Primavera P6" width="40" height="40"/>
-  </a>
-  
-  <!-- AutoCAD -->
-  <a href="https://www.autodesk.com/products/autocad/" target="_blank">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw6Q4n-91yxCmYhW_AxUKuI_XhETVI_6fCBA&s" alt="AutoCAD" width="40" height="40"/>
   </a>
     <!-- Ubuntu -->
     <a href="https://ubuntu.com/" target="_blank">
       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhUXYtZGaSVpgszvcdic5jZKt2rhQZqPGEng&s" alt="Ubuntu" width="40" height="40"/>
   </a>
-  
-  <!-- Windows -->
-  <a href="https://www.microsoft.com/windows/" target="_blank">
-    <img src="https://img.icons8.com/color/512/windows-10.png" alt="Windows" width="40" height="40"/>
-  </a>
-  
-  <!-- Oracle VM VirtualBox -->
-  <a href="https://www.virtualbox.org/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-icon.svg" alt="Oracle VM VirtualBox" width="40" height="40"/>
-  </a>
-  
-  <!-- Bitwarden -->
-  <a href="https://bitwarden.com/" target="_blank">
-    <img src="https://www.svgrepo.com/show/349309/bitwarden.svg" alt="Bitwarden" width="40" height="40"/>
-  </a>
-  
-  <!-- Avast -->
-  <a href="https://www.avast.com/" target="_blank">
-    <img src="https://www.svgrepo.com/show/331297/avast.svg" alt="Avast" width="40" height="40"/>
-  </a>
-  
-  <!-- Bandicam -->
-  <a href="https://www.bandicam.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Bandicam-official-icon.png" alt="Bandicam" width="40" height="40"/>
-  </a>
-  
-  <!-- MobaXterm -->
-  <a href="https://mobaxterm.mobatek.net/" target="_blank">
-    <img src="https://www.it.unlv.edu/sites/default/files/styles/250_width/public/sites/default/files/assets/software/logos/mobaxterm.png?itok=xrOAQ3sf" alt="MobaXterm" width="40" height="40"/>
-  </a>
-  
-  <!-- PuTTY -->
-  <a href="https://www.chiark.greenend.org.uk/~sgtatham/putty/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/PuTTY_Icon.svg/2048px-PuTTY_Icon.svg.png" alt="PuTTY" width="40" height="40"/>
-  </a>
-  
-  <!-- Notepad++ -->
-  <a href="https://notepad-plus-plus.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Notepad%2B%2B_Logo.svg/2367px-Notepad%2B%2B_Logo.svg.png" alt="Notepad++" width="40" height="40"/>
-  </a>
-  
-  <!-- TeamViewer -->
-  <a href="https://www.teamviewer.com/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111641.png" alt="TeamViewer" width="40" height="40"/>
-  </a>
-  
-  <!-- Zoom -->
-  <a href="https://zoom.us/" target="_blank">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz1gPSRWMMM1ecDUUOMOoqkXbHo6fq8nUuiA&s" alt="Zoom" width="40" height="40"/>
-  </a>
-  <!-- Google Chrome -->
-  <a href="https://www.google.com/chrome/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Google_Chrome_icon_%28February_2022%29.svg/768px-Google_Chrome_icon_%28February_2022%29.svg.png" alt="Google Chrome" width="40" height="40"/>
-  </a>
-  
-  <!-- Mozilla Firefox -->
-  <a href="https://www.mozilla.org/firefox/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Firefox_logo%2C_2019.svg/1200px-Firefox_logo%2C_2019.svg.png" alt="Mozilla Firefox" width="40" height="40"/>
-  </a>
-  
-  <!-- Microsoft Edge -->
-  <a href="https://www.microsoft.com/edge" target="_blank">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPBis4Zt4lqVZoOkm07USksn6EIrbimer7cw&s" alt="Microsoft Edge" width="40" height="40"/>
-  </a>
 
-  <!-- Opera Browser -->
-  <a href="https://www.opera.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Opera_2015_icon.svg/512px-Opera_2015_icon.svg.png?20210325220019" alt="Opera Browser" width="40" height="40"/>
-  </a>
-  <a href="https://slack.com/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Slack_icon_2019.svg/2048px-Slack_icon_2019.svg.png" alt="Slack" width="40" height="40"/>
-  </a>
-  <a href="https://www.ccleaner.com/" target="_blank">
-  <img src="https://img.icons8.com/?size=512&id=36508&format=png" alt="CCleaner" width="40" height="40"/>
-  </a>
-  <a href="https://www.balena.io/etcher/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Etcher-icon.png" alt="balenaEtcher" width="40" height="40"/>
-  </a>
-  <a href="https://www.gomlab.com/" target="_blank">
-  <img src="https://images.icon-icons.com/195/PNG/256/GOM_Player_23385.png" alt="GOM Player" width="40" height="40"/>
-  </a>
 </p>
-</details>
 
+---
 
 <details>
   <summary> ☀️ Favourite Quote </summary>
