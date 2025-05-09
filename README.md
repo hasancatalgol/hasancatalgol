@@ -222,7 +222,7 @@
   </a>
   <!-- Microsoft Project -->
   <a href="https://www.microsoft.com/en-us/microsoft-365/project" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/Microsoft_Project_2019_logo.svg" alt="Microsoft Project" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Microsoft_Project_%282019%E2%80%93present%29.svg/1200px-Microsoft_Project_%282019%E2%80%93present%29.svg.png" alt="Microsoft Project" width="40" height="40"/>
   </a>
   <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png" alt="VS Code" width="40" height="40"/>
@@ -245,12 +245,12 @@
   </a>
   <!-- Primavera P6 -->
   <a href="https://www.oracle.com/industries/construction-engineering/primavera-p6/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Primavera_P6_Logo.png/600px-Primavera_P6_Logo.png" alt="Primavera P6" width="40" height="40"/>
+    <img src="https://play-lh.googleusercontent.com/z87Px8yV2bVg3QHSIXWUxsitJidAugYKpXIiL2vaKaKe-3TjaEAPSj4bnFNWTLU22oja" alt="Primavera P6" width="40" height="40"/>
   </a>
   
   <!-- AutoCAD -->
   <a href="https://www.autodesk.com/products/autocad/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/Autodesk_AutoCAD_logo.svg" alt="AutoCAD" width="40" height="40"/>
+    <img src="https://images.seeklogo.com/logo-png/48/1/autocad-logo-png_seeklogo-482394.png" alt="AutoCAD" width="40" height="40"/>
   </a>
     <!-- Ubuntu -->
     <a href="https://ubuntu.com/" target="_blank">
