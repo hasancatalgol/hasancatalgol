@@ -223,17 +223,21 @@
   
   <!-- IntelliJ IDEA -->
   <a href="https://www.jetbrains.com/idea/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c0/IntelliJ_IDEA_Icon.svg" alt="IntelliJ IDEA" width="40" height="40"/>
+    <img src="https://www.btgsoft.com/wp-content/uploads/2023/04/IntelliJ_IDEA_icon.png" alt="IntelliJ IDEA" width="40" height="40"/>
+  </a>
+  <!-- Pycharm IDEA -->
+  <a href="https://www.jetbrains.com/pycharm/" target="_blank">
+    <img src="https://storage.caktusgroup.com/media/blog-images/logo.png" alt="Pycharm" width="40" height="40"/>
   </a>
   
   <!-- Ubuntu -->
   <a href="https://ubuntu.com/" target="_blank">
-    <img src="https://worldvectorlogo.com/logos/ubuntu-1.svg" alt="Ubuntu" width="40" height="40"/>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhUXYtZGaSVpgszvcdic5jZKt2rhQZqPGEng&s" alt="Ubuntu" width="40" height="40"/>
   </a>
   
   <!-- Windows -->
   <a href="https://www.microsoft.com/windows/" target="_blank">
-    <img src="https://www.svgrepo.com/show/303144/windows-10-logo.svg" alt="Windows" width="40" height="40"/>
+    <img src="https://img.icons8.com/color/512/windows-10.png" alt="Windows" width="40" height="40"/>
   </a>
   
   <!-- Oracle VM VirtualBox -->
