@@ -193,7 +193,7 @@
   </a> 
 </p>
  
-## 🧩 Underappreciated Skills
+## 🧹 Underappreciate Skills
 
 <p align="left">
 <!-- Bash -->
