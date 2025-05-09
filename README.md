@@ -284,6 +284,30 @@
   <a href="https://zoom.us/" target="_blank">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz1gPSRWMMM1ecDUUOMOoqkXbHo6fq8nUuiA&s" alt="Zoom" width="40" height="40"/>
   </a>
+  <!-- Google Chrome -->
+  <a href="https://www.google.com/chrome/" target="_blank">
+    <img src="https://www.svgrepo.com/show/373541/chrome.svg" alt="Google Chrome" width="40" height="40"/>
+  </a>
+  
+  <!-- Mozilla Firefox -->
+  <a href="https://www.mozilla.org/firefox/" target="_blank">
+    <img src="https://www.svgrepo.com/show/373702/firefox.svg" alt="Mozilla Firefox" width="40" height="40"/>
+  </a>
+  
+  <!-- Microsoft Edge -->
+  <a href="https://www.microsoft.com/edge" target="_blank">
+    <img src="https://www.svgrepo.com/show/354259/microsoft-edge.svg" alt="Microsoft Edge" width="40" height="40"/>
+  </a>
+
+  <!-- Opera Browser -->
+  <a href="https://www.opera.com/" target="_blank">
+    <img src="https://www.svgrepo.com/show/354205/opera.svg" alt="Opera Browser" width="40" height="40"/>
+  </a>
+  
+  <!-- Tor Browser -->
+  <a href="https://www.torproject.org/" target="_blank">
+    <img src="https://www.svgrepo.com/show/353992/tor.svg" alt="Tor Browser" width="40" height="40"/>
+  </a>
   
 </p>
 
