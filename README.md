@@ -193,7 +193,9 @@ These are the tools I’ve used to build scalable systems, design data platforms
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGDKmSgL7UJ6sstMUQTtjI2iDN7ClN2jRZ5Q&s" alt="Streamlit" width="40" height="40"/>
   </a> 
 </p>
- 
+
+---
+
 ## 🧹 Miscellaneous/UNDERAPPRECIATED Skills
 These might look like “basic” tools — the kind everyone’s supposed to know.
 But when things break, it’s the heroes without capes who fix them.
