@@ -194,6 +194,8 @@ These are the tools I’ve used to build scalable systems, design data platforms
   </a> 
 </p>
 
+---
+
 <details>
   <summary> ☀️ Favourite Quote </summary>
   <p align="center">
