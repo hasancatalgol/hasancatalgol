@@ -304,13 +304,16 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Opera_2015_icon.svg/512px-Opera_2015_icon.svg.png?20210325220019" alt="Opera Browser" width="40" height="40"/>
   </a>
   <a href="https://slack.com/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/76/Slack_Icon_2019.svg" alt="Slack" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Slack_icon_2019.svg/2048px-Slack_icon_2019.svg.png" alt="Slack" width="40" height="40"/>
   </a>
   <a href="https://www.ccleaner.com/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/en/6/6f/CCleaner_icon.png" alt="CCleaner" width="40" height="40"/>
+  <img src="https://img.icons8.com/?size=512&id=36508&format=png" alt="CCleaner" width="40" height="40"/>
   </a>
   <a href="https://www.balena.io/etcher/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/BalenaEtcher_logo.svg" alt="balenaEtcher" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Etcher-icon.png" alt="balenaEtcher" width="40" height="40"/>
+  </a>
+  <a href="https://www.gomlab.com/" target="_blank">
+  <img src="https://images.icon-icons.com/195/PNG/256/GOM_Player_23385.png" alt="GOM Player" width="40" height="40"/>
   </a>
 </p>
 
