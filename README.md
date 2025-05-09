@@ -55,7 +55,8 @@
 
 ---  
 ## 🛠️ Technologies & Tools
-These are the tools I’ve used to build scalable systems, design data platforms, and solve real-world engineering problems.
+These are the tools I’ve used to build scalable systems, design data platforms, and solve real-world problems —
+some in professional settings, some in school, others through trainings, tutorials, or personal projects.
 
 <p align="left">
   <a href="https://kafka.apache.org/" target="_blank">
