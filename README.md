@@ -56,7 +56,6 @@
 ---  
 ## 🛠️ Technologies & Tools
 These are the tools I’ve used to build scalable systems, design data platforms, and solve real-world engineering problems.
-They’re visible, respected, and often show up in job descriptions.
 
 <p align="left">
   <a href="https://kafka.apache.org/" target="_blank">
@@ -155,7 +154,7 @@ They’re visible, respected, and often show up in job descriptions.
   </a>
   <!-- MongoDB -->
   <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/en/4/45/MongoDB-Logo.svg" alt="MongoDB" width="40" height="40"/>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSITHn_TgjDyhdWvePNw0mveDrTUr00GLfv_Q&s" alt="MongoDB" width="40" height="40"/>
   </a>
   <a href="https://min.io/" target="_blank">
     <img src="https://cdn.worldvectorlogo.com/logos/minio-1.svg" alt="MinIO" width="40" height="40"/>
