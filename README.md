@@ -381,7 +381,7 @@ They deserve respect. And yes — they deserve to be paid.
 ---  
 
 <details>
-  <summary> ## 📊 Account Statistics </summary>
+  <summary> 📊 Account Statistics </summary>
   <p align="center">
   <img src="https://visitor-badge.glitch.me/badge?page_id=hasancatalgol.visitor-badge" alt="visitor badge"/>
   <img src="https://komarev.com/ghpvc/?username=hasancatalgol&label=Profile%20views" alt="profile views"/>
