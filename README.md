@@ -203,7 +203,7 @@ some in professional settings, some in school, others through trainings, tutoria
       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhUXYtZGaSVpgszvcdic5jZKt2rhQZqPGEng&s" alt="Ubuntu" width="40" height="40"/>
   </a>
   <a href="https://snyk.io/" target="_blank">
-  <img src="https://static-00.iconduck.com/assets.00/snyk-icon-1253x2048-skhaw1dw.png" alt="Snyk" width="40" height="40"/>
+  <img src="https://static-00.iconduck.com/assets.00/snyk-icon-1253x2048-skhaw1dw.png" alt="Snyk" width="40" height="50"/>
   </a>
 
 </p>
