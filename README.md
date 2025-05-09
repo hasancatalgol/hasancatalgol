@@ -208,7 +208,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Microsoft_Office_Access_%282019-present%29.svg/640px-Microsoft_Office_Access_%282019-present%29.svg.png" alt="Microsoft Access" width="40" height="40"/>
   </a>
   <a href="https://www.microsoft.com/en-us/microsoft-365/onedrive/online-cloud-storage" target="_blank">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3jYVz1ZKfVUO91XTBxkjxEZ2b6xJz7RG1lA&s" alt="Microsoft OneDrive" width="40" height="40"/>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3jYVz1ZKfVUO91XTBxkjxEZ2b6xJz7RG1lA&s" alt="Microsoft OneDrive" width="55" height="40"/>
   </a>
 </p>
 ---  
