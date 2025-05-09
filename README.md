@@ -377,6 +377,7 @@ They deserve respect. And yes — they deserve to be paid.
   </a>
 </p>
 </details>
+
 ---  
 
 <details>
