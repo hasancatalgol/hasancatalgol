@@ -184,25 +184,25 @@
     <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="Postman" width="40" height="40"/>
   </a>
   <a href="https://www.microsoft.com/en-us/microsoft-365/word" target="_blank">
-    <img src="https://www.svgrepo.com/show/373597/word.svg" alt="Microsoft Word" width="40" height="40"/>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbYQcLfUfqY6nAiwop5kkdkSvuKg0qzIc2TA&s" alt="Microsoft Word" width="40" height="40"/>
   </a>
   <a href="https://www.microsoft.com/en-us/microsoft-365/powerpoint" target="_blank">
-    <img src="https://www.svgrepo.com/show/373574/powerpoint.svg" alt="Microsoft PowerPoint" width="40" height="40"/>
+    <img src="https://images.freeimages.com/fic/images/icons/2795/office_2013_hd/2000/powerpoint.png" alt="Microsoft PowerPoint" width="40" height="40"/>
   </a>
   <a href="https://www.microsoft.com/en-us/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook" target="_blank">
-    <img src="https://www.svgrepo.com/show/373570/outlook.svg" alt="Microsoft Outlook" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg/1101px-Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg.png" alt="Microsoft Outlook" width="40" height="40"/>
   </a>
-  <a href="https://www.microsoft.com/en-us/microsoft-365/onenote/digital-note-taking-app" target="_blank">
-    <img src="https://www.svgrepo.com/show/373568/onenote.svg" alt="Microsoft OneNote" width="40" height="40"/>
+  <a href="https://www.microsoft.com/en-us/microsoft-365/onenote/digital-note-taking-ap" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Microsoft_Office_OneNote_%282019%E2%80%93present%29.svg/800px-Microsoft_Office_OneNote_%282019%E2%80%93present%29.svg.png" alt="Microsoft OneNote" width="40" height="40"/>
   </a>
   <a href="https://www.microsoft.com/en/microsoft-teams/group-chat-software" target="_blank">
-    <img src="https://www.svgrepo.com/show/373589/teams.svg" alt="Microsoft Teams" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Microsoft_Office_Teams_%282018%E2%80%93present%29.svg/1200px-Microsoft_Office_Teams_%282018%E2%80%93present%29.svg.png" alt="Microsoft Teams" width="40" height="40"/>
   </a>
   <a href="https://www.microsoft.com/en-us/microsoft-365/access" target="_blank">
-    <img src="https://www.svgrepo.com/show/373519/access.svg" alt="Microsoft Access" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Microsoft_Office_Access_%282019-present%29.svg/640px-Microsoft_Office_Access_%282019-present%29.svg.png" alt="Microsoft Access" width="40" height="40"/>
   </a>
   <a href="https://www.microsoft.com/en-us/microsoft-365/onedrive/online-cloud-storage" target="_blank">
-    <img src="https://www.svgrepo.com/show/373567/onedrive.svg" alt="Microsoft OneDrive" width="40" height="40"/>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3jYVz1ZKfVUO91XTBxkjxEZ2b6xJz7RG1lA&s" alt="Microsoft OneDrive" width="70" height="40"/>
   </a>
 
 
