@@ -198,17 +198,6 @@ some in professional settings, some in school, others through trainings, tutoria
 ---
 
 <details>
-  <summary> ☀️ Favourite Quote </summary>
-  <p align="center">
-    <img 
-      src="https://images.gr-assets.com/quotes/1424559768p8/158868.jpg" 
-      alt="Hard Work intensifies" 
-      width="600" 
-    />
-  </p>
-</details>
-
-<details>
   <summary> 🚮 Underappreciated Skills </summary>
 These might look like “basic” tools — the kind everyone’s supposed to know.
 But when things break, it’s the heroes without capes who fix them.
@@ -378,6 +367,18 @@ They deserve respect. And yes — they deserve to be paid.
   <img src="https://images.icon-icons.com/195/PNG/256/GOM_Player_23385.png" alt="GOM Player" width="40" height="40"/>
   </a>
 </p>
+</details>
+
+
+<details>
+  <summary> ☀️ Favourite Quote </summary>
+  <p align="center">
+    <img 
+      src="https://images.gr-assets.com/quotes/1424559768p8/158868.jpg" 
+      alt="Hard Work intensifies" 
+      width="600" 
+    />
+  </p>
 </details>
 
 <details>
