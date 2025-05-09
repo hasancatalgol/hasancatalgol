@@ -78,6 +78,9 @@
   <a href="https://iceberg.apache.org/" target="_blank">
     <img src="https://py.iceberg.apache.org/assets/images/iceberg-logo-icon.png" alt="Iceberg" width="40" height="40"/>
   </a>
+  <a href="https://hadoop.apache.org/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Hadoop_logo.svg" alt="Hadoop" width="40" height="40"/>
+  </a>
   <a href="https://trino.io/" target="_blank">
     <img src="https://ia801808.us.archive.org/33/items/github.com-trinodb-trino_-_2020-12-30_02-49-21/cover.jpg" alt="Trino" width="40" height="40"/>
   </a>
@@ -148,6 +151,10 @@
   <a href="https://www.postgresql.org/" target="_blank">
     <img src="https://www.iconsdb.com/icons/preview/royal-azure-blue/postgresql-xxl.png" alt="Postgres" width="40" height="40"/>
   </a>
+  <!-- MongoDB -->
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/en/4/45/MongoDB-Logo.svg" alt="MongoDB" width="40" height="40"/>
+  </a>
   <a href="https://min.io/" target="_blank">
     <img src="https://cdn.worldvectorlogo.com/logos/minio-1.svg" alt="MinIO" width="40" height="40"/>
   </a>
@@ -189,7 +196,21 @@
 ## 🧩 Underappreciated Skills
 
 <p align="left">
-  <a href="https://www.anaconda.com/" target="_blank">
+<!-- Bash -->
+<a href="https://www.gnu.org/software/bash/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" alt="Bash" width="40" height="40"/>
+</a>
+
+<!-- Heroku -->
+<a href="https://www.heroku.com/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c0/Heroku_logo.svg" alt="Heroku" width="40" height="40"/>
+</a>
+
+<!-- Adobe Photoshop -->
+<a href="https://www.adobe.com/products/photoshop.html" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="Adobe Photoshop" width="40" height="40"/>
+</a>  
+<a href="https://www.anaconda.com/" target="_blank">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXqvREgueCenWgK3AOYf2Ggyz-jOISn5uJfg&s " alt="Anaconda" width="40" height="40"/>
 </a>
 <!-- RStudio -->
@@ -234,7 +255,6 @@
   <a href="https://www.jetbrains.com/datagrip/" target="_blank">
     <img src="https://worldvectorlogo.com/logos/datagrip-icon.svg" alt="DataGrip" width="40" height="40"/>
   </a>
-  
   <!-- IntelliJ IDEA -->
   <a href="https://www.jetbrains.com/idea/" target="_blank">
     <img src="https://www.btgsoft.com/wp-content/uploads/2023/04/IntelliJ_IDEA_icon.png" alt="IntelliJ IDEA" width="40" height="40"/>
