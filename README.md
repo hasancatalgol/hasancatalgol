@@ -195,9 +195,7 @@ These are the tools I’ve used to build scalable systems, design data platforms
 </p>
  
 ## 🧹 Underappreciated Skills
-If you've ever seen someone struggle to schedule a Zoom call, send an email, or open a screen recording—then watched a quiet hero step in and fix it—you understand.
-These may seem like basic tools, but many still fumble with them. I learned them not because they were flashy, but because they were needed.
-They deserve recognition—and you know exactly why. 
+These might look like “basic” tools — the kind everyone’s supposed to know. But when things break, it’s the heroes without capes who fix them. Whether learned out of necessity or habit, these are real skills. They deserve respect. And yes — they deserve to be paid.
 
 <p align="left">
 <!-- Bash -->
