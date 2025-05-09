@@ -199,10 +199,11 @@ some in professional settings, some in school, others through trainings, tutoria
   <a href="https://www.gnu.org/software/bash/" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" alt="Bash" width="40" height="40"/>
   </a>
-  </a>
-    <!-- Ubuntu -->
-    <a href="https://ubuntu.com/" target="_blank">
+  <a href="https://ubuntu.com/" target="_blank">
       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhUXYtZGaSVpgszvcdic5jZKt2rhQZqPGEng&s" alt="Ubuntu" width="40" height="40"/>
+  </a>
+  <a href="https://snyk.io/" target="_blank">
+  <img src="https://static-00.iconduck.com/assets.00/snyk-icon-1253x2048-skhaw1dw.png" alt="Snyk" width="40" height="40"/>
   </a>
 
 </p>
