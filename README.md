@@ -257,34 +257,33 @@
   
   <!-- Bandicam -->
   <a href="https://www.bandicam.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Bandicam_logo_vectorial.svg" alt="Bandicam" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Bandicam-official-icon.png" alt="Bandicam" width="40" height="40"/>
   </a>
   
   <!-- MobaXterm -->
   <a href="https://mobaxterm.mobatek.net/" target="_blank">
-    <img src="https://icon-icons.com/icons2/2699/PNG/512/mobaxterm_logo_icon_168242.png" alt="MobaXterm" width="40" height="40"/>
+    <img src="https://www.it.unlv.edu/sites/default/files/styles/250_width/public/sites/default/files/assets/software/logos/mobaxterm.png?itok=xrOAQ3sf" alt="MobaXterm" width="40" height="40"/>
   </a>
   
   <!-- PuTTY -->
   <a href="https://www.chiark.greenend.org.uk/~sgtatham/putty/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/PuTTY_Icon.svg" alt="PuTTY" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/PuTTY_Icon.svg/2048px-PuTTY_Icon.svg.png" alt="PuTTY" width="40" height="40"/>
   </a>
   
   <!-- Notepad++ -->
   <a href="https://notepad-plus-plus.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/Notepad++_Logo.svg" alt="Notepad++" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Notepad%2B%2B_Logo.svg/2367px-Notepad%2B%2B_Logo.svg.png" alt="Notepad++" width="40" height="40"/>
   </a>
   
   <!-- TeamViewer -->
   <a href="https://www.teamviewer.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/TeamViewer_logo.svg" alt="TeamViewer" width="40" height="40"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111641.png" alt="TeamViewer" width="40" height="40"/>
   </a>
   
   <!-- Zoom -->
   <a href="https://zoom.us/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Zoom_Communications_Logo.svg" alt="Zoom" width="40" height="40"/>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz1gPSRWMMM1ecDUUOMOoqkXbHo6fq8nUuiA&s" alt="Zoom" width="40" height="40"/>
   </a>
-
   
 </p>
 ---  
