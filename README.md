@@ -55,6 +55,8 @@
 
 ---  
 ## 🛠️ Technologies & Tools
+These are the tools I’ve used to build scalable systems, design data platforms, and solve real-world engineering problems.
+They’re visible, respected, and often show up in job descriptions.
 
 <p align="left">
   <a href="https://kafka.apache.org/" target="_blank">
@@ -193,7 +195,8 @@
   </a> 
 </p>
  
-## 🧹 Underappreciate Skills
+## 🧹 Underappreciated Skills
+You know why these skills matter. These usually don’t get headlines — but they keep teams moving and problems solved.
 
 <p align="left">
 <!-- Bash -->
