@@ -210,6 +210,16 @@
   <a href="https://www.microsoft.com/en-us/microsoft-365/onedrive/online-cloud-storage" target="_blank">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3jYVz1ZKfVUO91XTBxkjxEZ2b6xJz7RG1lA&s" alt="Microsoft OneDrive" width="55" height="40"/>
   </a>
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png" alt="VS Code" width="40" height="40"/>
+  </a>
+  <a href="https://visualstudio.microsoft.com/tr/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/2060px-Visual_Studio_Icon_2019.svg.png" alt="VS Code" width="40" height="40"/>
+  </a>
+
+
+
+  
 </p>
 ---  
 
