@@ -129,6 +129,10 @@
   <a href="https://www.python.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   </a>
+  <a href="https://docs.astral.sh/uv/guides/install-python/" target="_blank">
+    <img src="https://pbs.twimg.com/profile_images/1642217212340518918/yFKKfLFm_400x400.png" alt="UV" width="40" height="40"/>
+  </a>
+  
   <a href="https://docs.microsoft.com/dotnet/csharp/" target="_blank">
     <img src="https://static-00.iconduck.com/assets.00/c-sharp-c-icon-1822x2048-wuf3ijab.png" alt="C#" width="40" height="40"/>
   </a>
@@ -185,6 +189,13 @@
 ## 🧩 Underappreciated Skills
 
 <p align="left">
+  <a href="https://www.anaconda.com/" target="_blank">
+  <img src="https://logo.svgcdn.com/l/anaconda-original.svg" alt="Anaconda" width="40" height="40"/>
+</a>
+<!-- RStudio -->
+<a href="https://posit.co/download/rstudio-desktop/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/RStudio_logo_flat.svg" alt="RStudio" width="40" height="40"/>
+</a>
 <a href="https://www.postman.com/" target="_blank">
     <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="Postman" width="40" height="40"/>
   </a>
@@ -209,6 +220,10 @@
   <a href="https://www.microsoft.com/en-us/microsoft-365/onedrive/online-cloud-storage" target="_blank">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3jYVz1ZKfVUO91XTBxkjxEZ2b6xJz7RG1lA&s" alt="Microsoft OneDrive" width="45" height="40"/>
   </a>
+  <!-- Microsoft Project -->
+  <a href="https://www.microsoft.com/en-us/microsoft-365/project" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/Microsoft_Project_2019_logo.svg" alt="Microsoft Project" width="40" height="40"/>
+  </a>
   <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png" alt="VS Code" width="40" height="40"/>
   </a>
@@ -228,10 +243,18 @@
   <a href="https://www.jetbrains.com/pycharm/" target="_blank">
     <img src="https://storage.caktusgroup.com/media/blog-images/logo.png" alt="Pycharm" width="40" height="40"/>
   </a>
+  <!-- Primavera P6 -->
+  <a href="https://www.oracle.com/industries/construction-engineering/primavera-p6/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Primavera_P6_Logo.png/600px-Primavera_P6_Logo.png" alt="Primavera P6" width="40" height="40"/>
+  </a>
   
-  <!-- Ubuntu -->
-  <a href="https://ubuntu.com/" target="_blank">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhUXYtZGaSVpgszvcdic5jZKt2rhQZqPGEng&s" alt="Ubuntu" width="40" height="40"/>
+  <!-- AutoCAD -->
+  <a href="https://www.autodesk.com/products/autocad/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/Autodesk_AutoCAD_logo.svg" alt="AutoCAD" width="40" height="40"/>
+  </a>
+    <!-- Ubuntu -->
+    <a href="https://ubuntu.com/" target="_blank">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhUXYtZGaSVpgszvcdic5jZKt2rhQZqPGEng&s" alt="Ubuntu" width="40" height="40"/>
   </a>
   
   <!-- Windows -->
