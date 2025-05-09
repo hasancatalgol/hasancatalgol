@@ -1,6 +1,6 @@
 ### Hi there. 👋
 - 🌌 I am Hasan, a data professional working in Istanbul/Turkey with 3 years of experience.
-- ✨ I have 3 year's of experience and going at light speed.
+- ✨ I have 3 year's of experience and progressing at light speed.
 - 🌱 I put my soul into my work (as long as I am given enough time to show my art)
 
 ## 🚧 What I’m Working On
@@ -176,7 +176,10 @@
   </a>
   <a href="https://azure.microsoft.com/services/devops/" target="_blank">
     <img src="https://cdn.iconscout.com/icon/free/png-256/free-azure-devops-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-company-vol-1-pack-logos-icons-3029870.png?f=webp&w=256" alt="Azure DevOps" width="40" height="40"/>
-  </a>  
+  </a>
+  <a href="https://streamlit.io/" target="_blank">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGDKmSgL7UJ6sstMUQTtjI2iDN7ClN2jRZ5Q&s" alt="Streamlit" width="40" height="40"/>
+  </a>
 </p>
 
 ---  
