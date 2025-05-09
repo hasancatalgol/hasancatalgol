@@ -303,7 +303,15 @@
   <a href="https://www.opera.com/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Opera_2015_icon.svg/512px-Opera_2015_icon.svg.png?20210325220019" alt="Opera Browser" width="40" height="40"/>
   </a>
-
+  <a href="https://slack.com/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/76/Slack_Icon_2019.svg" alt="Slack" width="40" height="40"/>
+  </a>
+  <a href="https://www.ccleaner.com/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/en/6/6f/CCleaner_icon.png" alt="CCleaner" width="40" height="40"/>
+  </a>
+  <a href="https://www.balena.io/etcher/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/BalenaEtcher_logo.svg" alt="balenaEtcher" width="40" height="40"/>
+  </a>
 </p>
 
 ---  
