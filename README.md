@@ -80,7 +80,7 @@ These are the tools I’ve used to build scalable systems, design data platforms
     <img src="https://py.iceberg.apache.org/assets/images/iceberg-logo-icon.png" alt="Iceberg" width="40" height="40"/>
   </a>
   <a href="https://hadoop.apache.org/" target="_blank">
-  <img src="https://static-00.iconduck.com/assets.00/hadoop-icon-2048x1535-hnz0inkl.png" alt="Hadoop" width="40" height="40"/>
+  <img src="https://static-00.iconduck.com/assets.00/hadoop-icon-2048x1535-hnz0inkl.png" alt="Hadoop" width="55" height="40"/>
   </a>
   <a href="https://trino.io/" target="_blank">
     <img src="https://ia801808.us.archive.org/33/items/github.com-trinodb-trino_-_2020-12-30_02-49-21/cover.jpg" alt="Trino" width="40" height="40"/>
