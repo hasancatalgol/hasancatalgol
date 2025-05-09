@@ -190,11 +190,11 @@
 
 <p align="left">
   <a href="https://www.anaconda.com/" target="_blank">
-  <img src="https://logo.svgcdn.com/l/anaconda-original.svg" alt="Anaconda" width="40" height="40"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXqvREgueCenWgK3AOYf2Ggyz-jOISn5uJfg&s " alt="Anaconda" width="40" height="40"/>
 </a>
 <!-- RStudio -->
 <a href="https://posit.co/download/rstudio-desktop/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/RStudio_logo_flat.svg" alt="RStudio" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/r-lang.svg" alt="RStudio" width="40" height="40"/>
 </a>
 <a href="https://www.postman.com/" target="_blank">
     <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="Postman" width="40" height="40"/>
