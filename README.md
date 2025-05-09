@@ -180,6 +180,12 @@
   <a href="https://streamlit.io/" target="_blank">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGDKmSgL7UJ6sstMUQTtjI2iDN7ClN2jRZ5Q&s" alt="Streamlit" width="40" height="40"/>
   </a>
+  <a href="https://www.postman.com/" target="_blank">
+    <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="Postman" width="40" height="40"/>
+  </a>
+
+
+  
 </p>
 
 ---  
