@@ -32,7 +32,7 @@
 ## Machine Learning Repositories
     
   - **[MLflow Project](https://github.com/hasancatalgol/ml-postgres)**  
-    End to End Postgres and MLflow Project from a data engineer perspective
+    End to End MLflow, Prefect, Postgres Project with Medallion Architecture
     
   - **[Q-Learning Game](https://github.com/hasancatalgol/checkers-qlearning)**  
     Simple Checkers game with Reinforcement Learning
