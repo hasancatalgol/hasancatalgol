@@ -5,10 +5,9 @@
 
 ## 🚧 What I’m Working On
 
-- Building a real-time analytics pipeline with Kafka, Spark Structured Streaming & Iceberg  
-- Experimenting with MLflow model registry & GitOps deployment  
-- Exploring Kubernetes Operators for DataOps
-- Check below to see my projects and tech stack
+- Building and optimizing LangChain pipelines for structured and unstructured data tasks
+- Using LangGraph to orchestrate multi-step agent workflows with custom toolchains
+- Exploring agentic protocol design patterns for more robust and interoperable multi-agent systems
   
 ---
 ## Data Engineering Repositories
