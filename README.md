@@ -8,7 +8,32 @@
 - Building and optimizing LangChain pipelines for structured and unstructured data tasks
 - Using LangGraph to orchestrate multi-step agent workflows with custom toolchains
 - Exploring agentic protocol design patterns for more robust and interoperable multi-agent systems
+
+---
+## Agentic AI Repositories
   
+  - **[Model Context Protocol (MCP)](https://github.com/hasancatalgol/model-context-protocol)**  
+
+
+  - **[Agent Communication Protocol (ACP)](https://github.com/hasancatalgol/agent-communication-protocol)**  
+    
+
+  - **[Agent-to-Agent Protocol (A2A)](https://github.com/hasancatalgol/agent-to-agent-protocol)**
+    
+  
+  - **[Agent Network Protocol (ANP)](https://github.com/hasancatalgol/agent-network-protocol)**  
+    
+
+  - **[Agora](https://github.com/hasancatalgol/agora-protocol)**
+    
+    
+  - **[Agents.json](https://github.com/hasancatalgol/agents-json-protocol)**
+    
+    
+  - **[Language Model Operating System (LMOS)](https://github.com/hasancatalgol/large-model-operating-system)**
+    
+
+  - **[AI Task Protocol](https://github.com/hasancatalgol/ai-task-protocol)**  
 ---
 ## Data Engineering Repositories
   
