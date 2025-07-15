@@ -23,11 +23,10 @@
 
   - **[Agent Network Protocol (ANP)](https://github.com/hasancatalgol/agent-network-protocol)**  
     
-
   - **[Agora](https://github.com/hasancatalgol/agora-protocol)**
     Agora Quickstart Demo in Python
-    
-    
+
+
   - **[Agents.json](https://github.com/hasancatalgol/agents-json-protocol)**
     
     
