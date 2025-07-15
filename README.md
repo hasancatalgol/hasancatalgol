@@ -34,25 +34,7 @@
     
 
   - **[AI Task Protocol](https://github.com/hasancatalgol/ai-task-protocol)**  
----
-## Data Engineering Repositories
-  
-  - **[Real-time Processing Pipeline](https://github.com/hasancatalgol/real-time-flow)**  
-    MSSQL Server, Kafka Connect, Debezium, Kafka, Flink and Postgres
 
-  - **[Batch Processing Pipeline](https://github.com/hasancatalgol/iceflow-pipeline)**  
-    Airflow 3, Spark, Iceberg, Hive Metastore as catalog, MinIO and Trino
-
-  - **[CCDAK](https://github.com/hasancatalgol/ccdak-setup)**  
-    Confluent Certification for Apache Kafka Exam Setup
-
-  - **[Dremio Demo](https://github.com/hasancatalgol/iceberg-dremio-minio)**  
-    Demo of integrating Apache Iceberg with Dremio over MinIO.
-
-  - **[SQLMesh Demo](https://github.com/hasancatalgol/sqlmesh-project)**  
-    Sample ETL orchestration demo using SQLMesh.
-    
----  
 ## Machine Learning Repositories
     
   - **[MLflow Project](https://github.com/hasancatalgol/ml-postgres)**  
@@ -78,9 +60,19 @@
 
   - **[A Streamlit Machine Learning App](https://github.com/hasancatalgol/level_based_persona_streamlit)**  
     Streamlit app visualizing level-based personas.
-
-
 ---  
+
+---
+## Data Engineering Repositories
+  
+  - **[Real-time Processing Pipeline](https://github.com/hasancatalgol/real-time-flow)**  
+    MSSQL Server, Kafka Connect, Debezium, Kafka, Flink and Postgres
+
+  - **[Batch Processing Pipeline](https://github.com/hasancatalgol/iceflow-pipeline)**  
+    Airflow 3, Spark, Iceberg, Hive Metastore as catalog, MinIO and Trino
+---  
+
+
 ## 🛠️ Technologies & Tools
 These are the tools I’ve used to build scalable systems, design data platforms, and solve real-world problems —
 some in professional settings, some in school, others through trainings, tutorials, or personal projects.
