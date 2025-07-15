@@ -30,7 +30,7 @@
 - **[Agents.json](https://github.com/hasancatalgol/agents-json-protocol)**  
   Schema for agent capability and metadata definitions
 
-- **[Language Model Operating System (LMOS)](https://github.com/hasancatalgol/large-model-operating-system)**  
+- **[Language Model Operating System (LMOS)](https://github.com/hasancatalgol/language-model-operating-system)**  
   Coordination layer for large-scale language models
 
 - **[AI Task Protocol](https://github.com/hasancatalgol/ai-task-protocol)**  
