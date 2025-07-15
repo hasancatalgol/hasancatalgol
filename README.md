@@ -12,7 +12,7 @@
 ---
 ## Agentic AI Repositories
 
-- **[LangGraph in TypeScript](https://github.com/hasancatalgol/lang-graph)**  
+- **[LangGraph in TypeScript](https://github.com/hasancatalgol/langgraph)**  
   Traning examples and my TypeScript versions of the code for iamvaibhavmehra LangGraph-Course-freeCodeCamp
 
 - **[Model Context Protocol (MCP)](https://github.com/hasancatalgol/model-context-protocol)**  
