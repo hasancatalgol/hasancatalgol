@@ -11,29 +11,30 @@
 
 ---
 ## Agentic AI Repositories
-  
-  - **[Model Context Protocol (MCP)](https://github.com/hasancatalgol/model-context-protocol)**  
-    A site-logging bot built with MCP in TypeScript
 
-  - **[Agent Communication Protocol (ACP)](https://github.com/hasancatalgol/agent-communication-protocol)**  
-    ACP Quickstart Demo in Python
-  
-  - **[Agent-to-Agent Protocol (A2A)](https://github.com/hasancatalgol/agent-to-agent-protocol)**  
-    A2A Quickstart Demo in TypeScript
+- **[Model Context Protocol (MCP)](https://github.com/hasancatalgol/model-context-protocol)**  
+  A site-logging bot built with MCP in TypeScript
 
-  - **[Agent Network Protocol (ANP)](https://github.com/hasancatalgol/agent-network-protocol)**  
-    
-  - **[Agora](https://github.com/hasancatalgol/agora-protocol)**
-    Agora Quickstart Demo in Python
+- **[Agent Communication Protocol (ACP)](https://github.com/hasancatalgol/agent-communication-protocol)**  
+  ACP Quickstart Demo in Python
 
+- **[Agent-to-Agent Protocol (A2A)](https://github.com/hasancatalgol/agent-to-agent-protocol)**  
+  A2A Quickstart Demo in TypeScript
 
-  - **[Agents.json](https://github.com/hasancatalgol/agents-json-protocol)**
-    
-    
-  - **[Language Model Operating System (LMOS)](https://github.com/hasancatalgol/large-model-operating-system)**
-    
+- **[Agent Network Protocol (ANP)](https://github.com/hasancatalgol/agent-network-protocol)**  
+  Agent networking protocol specification and utilities
 
-  - **[AI Task Protocol](https://github.com/hasancatalgol/ai-task-protocol)**  
+- **[Agora](https://github.com/hasancatalgol/agora-protocol)**  
+  Agora Quickstart Demo in Python
+
+- **[Agents.json](https://github.com/hasancatalgol/agents-json-protocol)**  
+  Schema for agent capability and metadata definitions
+
+- **[Language Model Operating System (LMOS)](https://github.com/hasancatalgol/large-model-operating-system)**  
+  Coordination layer for large-scale language models
+
+- **[AI Task Protocol](https://github.com/hasancatalgol/ai-task-protocol)**  
+  Unified structure for task definition and result exchange
 
 ## Machine Learning Repositories
     
