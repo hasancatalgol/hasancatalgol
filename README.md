@@ -19,7 +19,6 @@
     ACP Quickstart Demo in Python
 
   - **[Agent-to-Agent Protocol (A2A)](https://github.com/hasancatalgol/agent-to-agent-protocol)**
-
     A2A Quickstart Demo in TypeScript 
   
   - **[Agent Network Protocol (ANP)](https://github.com/hasancatalgol/agent-network-protocol)**  
