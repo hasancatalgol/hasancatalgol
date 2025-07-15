@@ -16,7 +16,7 @@
     A site-logging bot built with MCP in TypeScript
 
   - **[Agent Communication Protocol (ACP)](https://github.com/hasancatalgol/agent-communication-protocol)**  
-    ACP Quickstart Demo in Python
+     ACP Quickstart Demo in Python
 
   - **[Agent-to-Agent Protocol (A2A)](https://github.com/hasancatalgol/agent-to-agent-protocol)**
     A2A Quickstart Demo in TypeScript 
