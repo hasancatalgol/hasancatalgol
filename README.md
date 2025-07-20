@@ -64,6 +64,10 @@
 
   - **[A Streamlit Machine Learning App](https://github.com/hasancatalgol/level_based_persona_streamlit)**  
     Streamlit app visualizing level-based personas.
+    
+  - **[KNN Classification](https://github.com/hasancatalgol/knn-classification)**  
+    Iris Setosa classification with KNN in R
+    
 ---  
 
 ---
