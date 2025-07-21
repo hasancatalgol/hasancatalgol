@@ -68,6 +68,9 @@
   - **[KNN Classification](https://github.com/hasancatalgol/knn-classification)**  
     Iris Setosa classification with KNN in R
     
+  - **[Random Forest Classification](https://github.com/hasancatalgol/random-forest-classification)**  
+    Predicting term deposit subscriptions using Random Forest on the Portuguese Bank Marketing dataset in R.
+    
 ---  
 
 ---
