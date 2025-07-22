@@ -47,9 +47,6 @@
   - **[Q-Learning Game](https://github.com/hasancatalgol/checkers-qlearning)**  
     Simple Checkers game with Reinforcement Learning
 
-  - **[Regression on Body Measurements Dataset](https://github.com/hasancatalgol/body_measurement_prediction)**  
-    Regression models predicting body measurements.
-
   - **[Customer Lifetime Value (CLV)](https://github.com/hasancatalgol/customer_lifetime_value_part1)**  
     Calculating customer lifetime value CLV 
 
@@ -64,6 +61,9 @@
 
   - **[A Streamlit Machine Learning App](https://github.com/hasancatalgol/level_based_persona_streamlit)**  
     Streamlit app visualizing level-based personas.
+
+  - **[Linear Regression](https://github.com/hasancatalgol/linear-regression)**  
+    Linear Regression model predicting body measurements and assumptions in Python
     
   - **[KNN Classification](https://github.com/hasancatalgol/knn-classification)**  
     Iris Setosa classification with KNN in R
