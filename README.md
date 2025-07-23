@@ -70,6 +70,11 @@
     
   - **[Random Forest Classification](https://github.com/hasancatalgol/random-forest-classification)**  
     Predicting term deposit subscriptions using Random Forest on the Portuguese Bank Marketing dataset in R.
+
+  - **[Bayesian Inference](https://github.com/hasancatalgol/bayesian-statistics)**  
+    Concrete Compressive Strength using probabilistic inference in PYMC
+
+    
     
 ---  
 
