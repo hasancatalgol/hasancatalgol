@@ -74,9 +74,6 @@
   - **[Bayesian Inference](https://github.com/hasancatalgol/bayesian-statistics)**  
     Concrete Compressive Strength using probabilistic inference in PYMC
 
-    
-    
----  
 
 ---
 ## Data Engineering Repositories
