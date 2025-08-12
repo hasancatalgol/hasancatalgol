@@ -239,13 +239,16 @@ some in professional settings, some in school, others through trainings, tutoria
       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhUXYtZGaSVpgszvcdic5jZKt2rhQZqPGEng&s" alt="Ubuntu" width="40" height="40"/>
   </a>
   <a href="https://snyk.io/" target="_blank">
-  <img src="https://static-00.iconduck.com/assets.00/snyk-icon-1253x2048-skhaw1dw.png" alt="Snyk" width="40" height="50"/>
+    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%2Fid%2FOIP.0CAeJJt8IGxo-sPWNafyPQHaHa%3Fpid%3DApi&f=1&ipt=bdb5149e64295228682e580399bea1e5cda602610c71aaff2e13cb79c868cfe2" alt="Snyk" width="40" height="50"/>
   </a>
   <a href="https://www.pyomo.org/" target="_blank">
-  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.solvermax.com%2Fimages%2Flinks%2Fpyomo.png&f=1&nofb=1&ipt=6036dd5684159e406bb368c34d48d2adffb1a33d752f2d4622619cf9898ca008" alt="Pyomo" width="40" height="50"/>
+    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.solvermax.com%2Fimages%2Flinks%2Fpyomo.png&f=1&nofb=1&ipt=6036dd5684159e406bb368c34d48d2adffb1a33d752f2d4622619cf9898ca008" alt="Pyomo" width="40" height="50"/>
   </a>
-   <a href="https://www.pyomo.org/" target="_blank">
-  <img src="https://github.com/user-attachments/assets/51afa40a-ad27-4ffa-9476-980b56580dff" alt="Langchain" width="40" height="50"/>
+  <a href="https://lindo.com/" target="_blank">
+    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.glassdoor.com%2Fsqll%2F278313%2Flindo-systems-squarelogo-1448272518790.png&f=1&nofb=1&ipt=1c7dd9cb004fe3c71f5728ef8b512efc792da6bb62d0b4e78913bc91a35dec15" alt="Lindo" width="40" height="50"/>
+  </a>
+  <a href="https://www.langchain.com/" target="_blank">
+    <img src="https://github.com/user-attachments/assets/51afa40a-ad27-4ffa-9476-980b56580dff" alt="Langchain" width="40" height="50"/>
   </a>
   
 
