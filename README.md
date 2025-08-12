@@ -204,6 +204,9 @@ some in professional settings, some in school, others through trainings, tutoria
   <a href="https://kubernetes.io/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40"/>
   </a>
+  <a href="https://helm.sh/docs/topics/charts/" target="_blank">
+    <img src="https://github.com/user-attachments/assets/1d8ccc55-0c3a-4aea-a64b-15b229c9c18a" alt="Helm" width="40" height="40"/>
+  </a>
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
   </a>
