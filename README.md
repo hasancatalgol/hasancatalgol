@@ -85,7 +85,6 @@
     Airflow 3, Spark, Iceberg, Hive Metastore as catalog, MinIO and Trino
 ---  
 
----
 ## Operational Research Repositories
   
   - **[Linear Programming](https://github.com/hasancatalgol/linear-programming)**  
