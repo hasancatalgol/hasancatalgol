@@ -178,7 +178,7 @@ some in professional settings, some in school, others through trainings, tutoria
   </a>
   
   <a href="https://docs.microsoft.com/dotnet/csharp/" target="_blank">
-    <img src="https://static-00.iconduck.com/assets.00/c-sharp-c-icon-1822x2048-wuf3ijab.png" alt="C#" width="40" height="40"/>
+    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ficonape.com%2Fwp-content%2Fpng_logo_vector%2Fc.png&f=1&nofb=1&ipt=cf1f970653a0f5a1b69ce41402ed7cdea186a518d707ee05177576ac92c93668" alt="C#" width="40" height="40"/>
   </a>
   <a href="https://www.java.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
