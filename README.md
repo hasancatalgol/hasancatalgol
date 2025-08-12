@@ -85,6 +85,13 @@
     Airflow 3, Spark, Iceberg, Hive Metastore as catalog, MinIO and Trino
 ---  
 
+---
+## Operational Research Repositories
+  
+  - **[Linear Programming](placeholder.com)**  
+    placeholder
+    
+---  
 
 ## 🛠️ Technologies & Tools
 These are the tools I’ve used to build scalable systems, design data platforms, and solve real-world problems —
