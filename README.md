@@ -120,7 +120,7 @@ some in professional settings, some in school, others through trainings, tutoria
     <img src="https://py.iceberg.apache.org/assets/images/iceberg-logo-icon.png" alt="Iceberg" width="40" height="40"/>
   </a>
   <a href="https://hadoop.apache.org/" target="_blank">
-  <img src="https://static-00.iconduck.com/assets.00/hadoop-icon-2048x1535-hnz0inkl.png" alt="Hadoop" width="50" height="40"/>
+  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%2Fid%2FOIP.sQ6CqXGk14VjcejBL2WC7QHaHa%3Fpid%3DApi&f=1&ipt=f24053f82b535bcc9d851983203699a356728c233e264eba923e4b50ee14fbd6" alt="Hadoop" width="50" height="40"/>
   </a>
   <a href="https://trino.io/" target="_blank">
     <img src="https://ia801808.us.archive.org/33/items/github.com-trinodb-trino_-_2020-12-30_02-49-21/cover.jpg" alt="Trino" width="40" height="40"/>
@@ -240,6 +240,10 @@ some in professional settings, some in school, others through trainings, tutoria
   </a>
   <a href="https://snyk.io/" target="_blank">
   <img src="https://static-00.iconduck.com/assets.00/snyk-icon-1253x2048-skhaw1dw.png" alt="Snyk" width="40" height="50"/>
+  </a>
+  </a>
+  <a href="https://www.pyomo.org/" target="_blank">
+  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.solvermax.com%2Fimages%2Flinks%2Fpyomo.png&f=1&nofb=1&ipt=6036dd5684159e406bb368c34d48d2adffb1a33d752f2d4622619cf9898ca008" alt="Pyomo" width="40" height="50"/>
   </a>
 
 </p>
