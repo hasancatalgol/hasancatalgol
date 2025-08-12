@@ -88,7 +88,7 @@
 ---
 ## Operational Research Repositories
   
-  - **[Linear Programming](placeholder.com)**  
+  - **[Linear Programming](https://github.com/hasancatalgol/linear-programming)**  
     placeholder
     
 ---  
