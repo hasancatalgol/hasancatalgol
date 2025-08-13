@@ -250,7 +250,7 @@ some in professional settings, some in school, others through trainings, tutoria
     <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.glassdoor.com%2Fsqll%2F278313%2Flindo-systems-squarelogo-1448272518790.png&f=1&nofb=1&ipt=1c7dd9cb004fe3c71f5728ef8b512efc792da6bb62d0b4e78913bc91a35dec15" alt="Lindo" width="40" height="50"/>
   </a>
   <a href="https://www.langchain.com/" target="_blank">
-    <img src="https://github.com/user-attachments/assets/51afa40a-ad27-4ffa-9476-980b56580dff" alt="Langchain" width="60" height="75"/>
+    <img src="https://github.com/user-attachments/assets/51afa40a-ad27-4ffa-9476-980b56580dff" alt="Langchain" width="60" height=50"/>
   </a>
   
 
