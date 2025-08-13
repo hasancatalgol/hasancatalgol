@@ -143,7 +143,8 @@
     (placeholder — SOCP example description here)  
 ---  
 
-## Time Series Repositories
+<details>
+<summary><h2>Time Series Repositories</h2></summary>
   - **[Autoregressive Model](https://github.com/hasancatalgol/ts-autoregressive-model)**  
     palceholder.
 
@@ -197,6 +198,7 @@
   
   - **[Gated Recurrent Unit (GRU)](https://github.com/hasancatalgol/ts-gru)**  
     placeholder.
+</details>
 
 ## 🛠️ Technologies & Tools
 These are the tools I’ve used to build scalable systems, design data platforms, and solve real-world problems —
