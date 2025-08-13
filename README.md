@@ -48,7 +48,8 @@
 
 </details>
 
-## Machine Learning Repositories
+<details>
+<summary><h2>Machine Learning Repositories</h2></summary>
     
   - **[MLflow Project](https://github.com/hasancatalgol/ml-postgres)**  
     End to End MLflow, Prefect, Postgres Project with Medallion Architecture
@@ -82,19 +83,26 @@
 
   - **[Bayesian Inference](https://github.com/hasancatalgol/bayesian-statistics)**  
     Concrete Compressive Strength using probabilistic inference in PYMC
-
+    
+</details>
 
 ---
-## Data Engineering Repositories
+
+<details>
+<summary><h2>Data Engineering Repositories</h2></summary>
   
   - **[Real-time Processing Pipeline](https://github.com/hasancatalgol/real-time-flow)**  
     MSSQL Server, Kafka Connect, Debezium, Kafka, Flink and Postgres
 
   - **[Batch Processing Pipeline](https://github.com/hasancatalgol/iceflow-pipeline)**  
     Airflow 3, Spark, Iceberg, Hive Metastore as catalog, MinIO and Trino
+
+</details>
 ---  
 
-## Operational Research Repositories
+<details>
+<summary><h2>Operational Research Repositories</h2></summary>
+  
   - **[Water Resources Management](https://github.com/hasancatalgol/water-resources-management)**  
     To the memory of my late lecturer, Kamil Emre Can, preserving his civil engineering course notes and assignments through Pyomo implementations in his honor.
     
@@ -144,7 +152,9 @@
     (placeholder — SDP example description here)
   
   - **[Second-Order Cone Programming (SOCP)](https://github.com/hasancatalgol/second-order-cone-programming)**  
-    (placeholder — SOCP example description here)  
+    (placeholder — SOCP example description here)
+</details>
+
 ---  
 
 <details>
