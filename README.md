@@ -9,6 +9,11 @@
 - Using LangGraph to orchestrate multi-step agent workflows with custom toolchains
 - Exploring agentic protocol design patterns for more robust and interoperable multi-agent systems
 
+## 🚧 What I will be Working on
+
+- Learn foundations of Operational Research and Optimization Techniques and create repositories for each
+- Prepare Time Series and create repositories for each
+- 
 ---
 ## Agentic AI Repositories
 
