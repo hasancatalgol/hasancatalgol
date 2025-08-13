@@ -145,6 +145,7 @@
 
 <details>
 <summary><h2>Time Series Repositories</h2></summary>
+  
   - **[Autoregressive Model](https://github.com/hasancatalgol/ts-autoregressive-model)**  
     palceholder.
 
