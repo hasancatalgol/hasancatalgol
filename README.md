@@ -143,6 +143,61 @@
     (placeholder — SOCP example description here)  
 ---  
 
+## Time Series Repositories
+  - **[Autoregressive Model](https://github.com/hasancatalgol/ts-autoregressive-model)**  
+    palceholder.
+
+  - **[ARIMA](https://github.com/hasancatalgol/ts-arima)**  
+    placeholder.
+  
+  - **[ARIMAX](https://github.com/hasancatalgol/ts-arimax)**  
+    placeholder.
+  
+  - **[SARIMA](https://github.com/hasancatalgol/ts-sarima)**  
+    placeholder.
+  
+  - **[SARIMAX](https://github.com/hasancatalgol/ts-sarimax)**  
+    placeholder.
+  
+  - **[Vector Autoregression (VAR)](https://github.com/hasancatalgol/ts-var)**  
+    placeholder.
+  
+  - **[Theta Method](https://github.com/hasancatalgol/ts-theta)**  
+    placeholder.
+  
+  - **[Exponential Smoothing Methods](https://github.com/hasancatalgol/ts-exponential-smoothing)**  
+    placeholder.
+  
+  - **[Gaussian Processes Regression](https://github.com/hasancatalgol/ts-gaussian-processes)**  
+    placeholder.
+  
+  - **[Generalized Additive Models (GAM)](https://github.com/hasancatalgol/ts-gam)**  
+    placeholder.
+  
+  - **[Random Forests](https://github.com/hasancatalgol/ts-random-forest)**  
+    placeholder.
+  
+  - **[Gradient Boosting Machines (GBM)](https://github.com/hasancatalgol/ts-gradient-boosting)**  
+    placeholder.
+  
+  - **[State Space Models](https://github.com/hasancatalgol/ts-state-space-models)**  
+    placeholder.
+  
+  - **[Hidden Markov Model (HMM)](https://github.com/hasancatalgol/ts-hmm)**  
+    placeholder.
+  
+  - **[Dynamic Linear Models (DLMs)](https://github.com/hasancatalgol/ts-dlm)**  
+    placeholder.
+  
+  - **[Recurrent Neural Networks (RNNs)](https://github.com/hasancatalgol/ts-rnn)**  
+    placeholder.
+  
+  - **[Long Short-Term Memory (LSTM)](https://github.com/hasancatalgol/ts-lstm)**  
+    placeholder.
+  
+  - **[Gated Recurrent Unit (GRU)](https://github.com/hasancatalgol/ts-gru)**  
+    placeholder.
+
 ## 🛠️ Technologies & Tools
 These are the tools I’ve used to build scalable systems, design data platforms, and solve real-world problems —
 some in professional settings, some in school, others through trainings, tutorials, or personal projects.
