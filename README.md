@@ -98,6 +98,7 @@
     Airflow 3, Spark, Iceberg, Hive Metastore as catalog, MinIO and Trino
 
 </details>
+
 ---  
 
 <details>
@@ -214,6 +215,8 @@
   - **[Gated Recurrent Unit (GRU)](https://github.com/hasancatalgol/ts-gru)**  
     placeholder.
 </details>
+
+---
 
 ## 🛠️ Technologies & Tools
 These are the tools I’ve used to build scalable systems, design data platforms, and solve real-world problems —
