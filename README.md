@@ -86,7 +86,8 @@
 ---  
 
 ## Operational Research Repositories
-  
+  - **[Water Resources Management](https://github.com/hasancatalgol/water-resources-management)**  
+    This repository is dedicated to the memory of my late lecturer, Kamil Emre Can, preserving his civil engineering course notes and assignments through Python and Pyomo implementations in his honor.
   - **[Linear Programming(LP)](https://github.com/hasancatalgol/linear-programming)**  
     Pyomo LP that finds the money corner for two products under resource caps—simplex-solved
   - **[Nonlinear Programming(NLP)](https://github.com/hasancatalgol/non-linear-programming)**  
