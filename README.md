@@ -13,7 +13,7 @@
 
 - Learn foundations of Operational Research and Optimization Techniques and create repositories for each
 - Prepare Time Series and create repositories for each
-- 
+
 ---
 ## Agentic AI Repositories
 
