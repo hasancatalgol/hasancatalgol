@@ -15,7 +15,9 @@
 - Prepare Time Series and create repositories for each
 
 ---
-## Agentic AI Repositories
+
+<details>
+<summary><h2>Agentic AI Repositories</h2></summary>
 
 - **[LangGraph in TypeScript](https://github.com/hasancatalgol/langgraph)**  
   Traning examples and my TypeScript versions of the code for iamvaibhavmehra LangGraph-Course-freeCodeCamp
@@ -43,6 +45,8 @@
 
 - **[AI Task Protocol](https://github.com/hasancatalgol/ai-task-protocol)**  
   Unified structure for task definition and result exchange
+
+</details>
 
 ## Machine Learning Repositories
     
