@@ -87,8 +87,8 @@
 
 ## Operational Research Repositories
   
-  - **[Linear Programming](https://github.com/hasancatalgol/linear-programming)**  
-    placeholder
+  - **[Linear Programming](https://github.com/hasancatalgol/linear-programming)**
+    Pyomo LP that finds the money corner for two products under resource caps—simplex-solved, plot-ready.
     
 ---  
 
