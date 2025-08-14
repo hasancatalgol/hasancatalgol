@@ -1,6 +1,5 @@
 ### Hi there. 👋
-- 🌌 I am Hasan, a data professional working in Istanbul/Turkey with 3 years of experience.
-- ✨ I have 3 year's of experience and progressing at light speed.
+- 🌌 I am Hasan, a data professional working in Istanbul/Turkey with 3 years of work experience with 4 more personally.
 - 🌱 I put my soul into my work (as long as I am given enough time to show my art)
 
 ## 🚧 What I’m Working On
