@@ -162,17 +162,7 @@
   - **[Autoregressive Model](https://github.com/hasancatalgol/ts-autoregressive-model)**  
     palceholder.
 
-  - **[ARIMA](https://github.com/hasancatalgol/ts-arima)**  
-    placeholder.
-  
-  - **[ARIMAX](https://github.com/hasancatalgol/ts-arimax)**  
-    placeholder.
-  
-  - **[SARIMA](https://github.com/hasancatalgol/ts-sarima)**  
-    placeholder.
-  
-  - **[SARIMAX](https://github.com/hasancatalgol/ts-sarimax)**  
-    placeholder.
+  - **[ARIMA Family Models](https://github.com/hasancatalgol/ts-arima)**  
   
   - **[Vector Autoregression (VAR)](https://github.com/hasancatalgol/ts-var)**  
     placeholder.
