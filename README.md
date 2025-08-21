@@ -361,7 +361,7 @@ some in professional settings, some in school, others through trainings, tutoria
     <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.solvermax.com%2Fimages%2Flinks%2Fpyomo.png&f=1&nofb=1&ipt=6036dd5684159e406bb368c34d48d2adffb1a33d752f2d4622619cf9898ca008" alt="Pyomo" width="40" height="50"/>
   </a>
   <a href="https://pygad.readthedocs.io/en/latest/" target="_blank">
-    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fuser-images.githubusercontent.com%2F16560492%2F101267295-c74c0180-375f-11eb-9ad0-f8e37bd796ce.png&f=1&nofb=1&ipt=d6982b7a9456cfb0a8060e0c69a18450d2c54cbeafd4f4fa5701205be8f621c4" alt="PyGAD" width="60" height=50"/>
+    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fuser-images.githubusercontent.com%2F16560492%2F101267295-c74c0180-375f-11eb-9ad0-f8e37bd796ce.png&f=1&nofb=1&ipt=d6982b7a9456cfb0a8060e0c69a18450d2c54cbeafd4f4fa5701205be8f621c4" alt="PyGAD" width="50" height=50"/>
   </a>
   <a href="https://lindo.com/" target="_blank">
     <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.glassdoor.com%2Fsqll%2F278313%2Flindo-systems-squarelogo-1448272518790.png&f=1&nofb=1&ipt=b3880691580fd8bd227bec655001eaa19f89557e732b413266260a8d3eabe9f8" alt="Lindo" width="40" height="50"/>
