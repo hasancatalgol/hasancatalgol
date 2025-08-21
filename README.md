@@ -364,7 +364,7 @@ some in professional settings, some in school, others through trainings, tutoria
     <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fuser-images.githubusercontent.com%2F16560492%2F101267295-c74c0180-375f-11eb-9ad0-f8e37bd796ce.png&f=1&nofb=1&ipt=d6982b7a9456cfb0a8060e0c69a18450d2c54cbeafd4f4fa5701205be8f621c4" alt="PyGAD" width="50" height=50"/>
   </a>
   <a href="https://lindo.com/" target="_blank">
-    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.glassdoor.com%2Fsqll%2F278313%2Flindo-systems-squarelogo-1448272518790.png&f=1&nofb=1&ipt=b3880691580fd8bd227bec655001eaa19f89557e732b413266260a8d3eabe9f8" alt="Lindo" width="40" height="50"/>
+    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.glassdoor.com%2Fsqll%2F278313%2Flindo-systems-squarelogo-1448272518790.png&f=1&nofb=1&ipt=b3880691580fd8bd227bec655001eaa19f89557e732b413266260a8d3eabe9f8" alt="Lindo" width="55" height="50"/>
   </a>
   <a href="https://www.langchain.com/" target="_blank">
     <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fregistry.npmmirror.com%2F%40lobehub%2Ficons-static-png%2Flatest%2Ffiles%2Fdark%2Flangchain-color.png&f=1&nofb=1&ipt=cdd96b21e1a1034e20d6892327f25ec083387e597541fde662131cbb03f5be30" alt="Langchain" width="40" height=50"/>
