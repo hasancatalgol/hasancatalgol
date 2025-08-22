@@ -29,22 +29,6 @@
 
 - **[Agent-to-Agent Protocol (A2A)](https://github.com/hasancatalgol/agent-to-agent-protocol)**  
   A2A Quickstart Demo in TypeScript
-
-- **[Agent Network Protocol (ANP)](https://github.com/hasancatalgol/agent-network-protocol)**  
-  Agent networking protocol specification and utilities
-
-- **[Agora](https://github.com/hasancatalgol/agora-protocol)**  
-  Agora Quickstart Demo in Python
-
-- **[Agents.json](https://github.com/hasancatalgol/agents-json-protocol)**  
-  Schema for agent capability and metadata definitions
-
-- **[Language Model Operating System (LMOS)](https://github.com/hasancatalgol/language-model-operating-system)**  
-  Coordination layer for large-scale language models
-
-- **[AI Task Protocol](https://github.com/hasancatalgol/ai-task-protocol)**  
-  Unified structure for task definition and result exchange
-
 </details>
 
 ---
