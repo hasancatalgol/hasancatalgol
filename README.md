@@ -15,8 +15,7 @@
 
 ---
 
-<details>
-<summary><h2>Agentic AI Repositories</h2></summary>
+## Agentic AI Repositories
 
 - **[LangGraph in TypeScript](https://github.com/hasancatalgol/langgraph)**  
   Traning examples and my TypeScript versions of the code for iamvaibhavmehra LangGraph-Course-freeCodeCamp
@@ -29,12 +28,10 @@
 
 - **[Agent-to-Agent Protocol (A2A)](https://github.com/hasancatalgol/agent-to-agent-protocol)**  
   A2A Quickstart Demo in TypeScript
-</details>
 
 ---
 
-<details>
-<summary><h2>Machine Learning Repositories</h2></summary>
+## Machine Learning Repositories
     
   - **[MLflow Project](https://github.com/hasancatalgol/ml-postgres)**  
     End to End MLflow, Prefect, Postgres Project with Medallion Architecture
@@ -68,13 +65,10 @@
 
   - **[Bayesian Inference](https://github.com/hasancatalgol/bayesian-statistics)**  
     Concrete Compressive Strength using probabilistic inference in PYMC
-    
-</details>
 
 ---
 
-<details>
-<summary><h2>Data Engineering Repositories</h2></summary>
+## Data Engineering Repositories
   
   - **[Real-time Processing Pipeline](https://github.com/hasancatalgol/real-time-flow)**  
     MSSQL Server, Kafka Connect, Debezium, Kafka, Flink and Postgres
@@ -82,12 +76,9 @@
   - **[Batch Processing Pipeline](https://github.com/hasancatalgol/iceflow-pipeline)**  
     Airflow 3, Spark, Iceberg, Hive Metastore as catalog, MinIO and Trino
 
-</details>
-
 ---  
 
-<details>
-<summary><h2>Operational Research Repositories</h2></summary>
+## Operational Research Repositories
   
   - **[Linear Programming(LP)](https://github.com/hasancatalgol/linear-programming)**  
     Pyomo LP that finds the money corner for two products under resource caps—simplex-solved
@@ -136,12 +127,10 @@
   
   - **[Second-Order Cone Programming (SOCP)](https://github.com/hasancatalgol/second-order-cone-programming)**  
     (placeholder — SOCP example description here)
-</details>
 
 ---  
 
-<details>
-<summary><h2>Time Series Repositories</h2></summary>
+## Time Series Repositories
   
   - **[Autoregressive Model](https://github.com/hasancatalgol/ts-autoregressive-model)**  
     palceholder.
@@ -186,8 +175,7 @@
   
   - **[Gated Recurrent Unit (GRU)](https://github.com/hasancatalgol/ts-gru)**  
     placeholder.
-</details>
-
+    
 ---
 
 ## 🛠️ Technologies & Tools
