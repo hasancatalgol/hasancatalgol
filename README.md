@@ -342,6 +342,9 @@ some in professional settings, some in school, others through trainings, tutoria
   <a href="https://snyk.io/" target="_blank">
     <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%2Fid%2FOIP.0CAeJJt8IGxo-sPWNafyPQHaHa%3Fpid%3DApi&f=1&ipt=bdb5149e64295228682e580399bea1e5cda602610c71aaff2e13cb79c868cfe2" alt="Snyk" width="40" height="50"/>
   </a>
+  <a href="https://www.knime.com/" target="_blank">
+    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.datanami.com%2Fwp-content%2Fuploads%2F2023%2F11%2Fknime-new-23.jpg&f=1&nofb=1&ipt=ab003d58ae984b868cefa90a4459b60e15e3cc48aa69e1ec5688aa857dea2925" alt="Knime" width="40" height="50"/>
+  </a>
   <a href="https://www.pyomo.org/" target="_blank">
     <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.solvermax.com%2Fimages%2Flinks%2Fpyomo.png&f=1&nofb=1&ipt=6036dd5684159e406bb368c34d48d2adffb1a33d752f2d4622619cf9898ca008" alt="Pyomo" width="40" height="50"/>
   </a>
