@@ -335,8 +335,8 @@ some in professional settings, some in school, others through trainings, tutoria
   <a href="https://www.gnu.org/software/bash/" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" alt="Bash" width="40" height="40"/>
   </a>
-  <a href="https://ubuntu.com/" target="_blank">
-      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhUXYtZGaSVpgszvcdic5jZKt2rhQZqPGEng&s" alt="Ubuntu" width="40" height="40"/>
+  <a href="https://archlinux.org/" target="_blank">
+      <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn0.iconfinder.com%2Fdata%2Ficons%2Fflat-round-system%2F512%2Farchlinux-512.png&f=1&nofb=1&ipt=0da5c705501d70b8011bab21fccd6c52908445584ac0b60b08bba8327c4b41ca" alt="I prefer EOS btw" width="40" height="40"/>
   </a>
   <a href="https://snyk.io/" target="_blank">
     <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%2Fid%2FOIP.0CAeJJt8IGxo-sPWNafyPQHaHa%3Fpid%3DApi&f=1&ipt=bdb5149e64295228682e580399bea1e5cda602610c71aaff2e13cb79c868cfe2" alt="Snyk" width="40" height="50"/>
