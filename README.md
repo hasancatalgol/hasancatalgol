@@ -188,6 +188,9 @@
   
   - **[Traveling Salesman Problem](https://github.com/hasancatalgol/ga-traveling-salesman-problem)**  
     Solves the Traveling Salesman problem using a Genetic Algorithm built with PyGAD.
+    
+   - **[Simulated Annealing](https://github.com/hasancatalgol/mh-simulated-annealing)**  
+     Simple explanation of Simulated Annealing Algorithm
 
  ---   
 
