@@ -178,6 +178,19 @@
     
 ---
 
+## Data Structures and Algorithms Repositories
+
+  - **[Knapsack Problem](https://github.com/hasancatalgol/ga-knapsack-optimization)**  
+    Solves the Knapsack problem using a Genetic Algorithm built with PyGAD.
+    
+  - **[N-Queens Problem](https://github.com/hasancatalgol/ga-nqueens-problem)**  
+    Solves the N-Queens problem using a Genetic Algorithm built with PyGAD.
+  
+  - **[Traveling Salesman Problem](https://github.com/hasancatalgol/ga-traveling-salesman-problem)**  
+    Solves the Traveling Salesman problem using a Genetic Algorithm built with PyGAD.
+
+ ---   
+
 ## 🛠️ Technologies & Tools
 These are the tools I’ve used to build scalable systems, design data platforms, and solve real-world problems —
 some in professional settings, some in school, others through trainings, tutorials, or personal projects.
