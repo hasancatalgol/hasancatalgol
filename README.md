@@ -87,7 +87,7 @@
     Nonlinear hydropower reservoir optimization in Pyomo with comprehensive operational, geometric, 3D, dual, and sensitivity visualizations.
     
   - **[Quadratic Programming (QP)](https://github.com/hasancatalgol/quadratic-programming)**  
-    (placeholder — QP example description here)
+    Convex QP Tracking-Error Portfolio Optimization example in Pyomo
     
   - **[Mixed-Integer Linear Programming (MILP)](https://github.com/hasancatalgol/mixed-integer-linear-programming)**  
     (placeholder — MILP example description here)
