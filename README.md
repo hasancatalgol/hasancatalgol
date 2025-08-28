@@ -95,45 +95,6 @@
     
   - **[Quadratic Programming (QP)](https://github.com/hasancatalgol/quadratic-programming)**  
     Convex QP Tracking-Error Portfolio Optimization example in Pyomo
-    
-  - **[Mixed-Integer Linear Programming (MILP)](https://github.com/hasancatalgol/mixed-integer-linear-programming)**  
-    (placeholder — MILP example description here)
-    
-  - **[Mixed-Integer Quadratic Programming (MIQP)](https://github.com/hasancatalgol/mixed-integer-quadratic-programming)**  
-    (placeholder — MIQP example description here)
-    
-  - **[Mixed-Integer Nonlinear Programming (MINLP)](https://github.com/hasancatalgol/mixed-integer-nonlinear-programming)**  
-    (placeholder — MINLP example description here)
-    
-  - **[Mixed-Integer Stochastic Programming (MISP)](https://github.com/hasancatalgol/mixed-integer-stochastic-programming)**  
-    (placeholder — MISP example description here)
-    
-  - **[Generalized Disjunctive Programming (GDP)](https://github.com/hasancatalgol/generalized-disjunctive-programming)**  
-    (placeholder — GDP example description here)
-    
-  - **[Differential-Algebraic Equation Optimization (DAE)](https://github.com/hasancatalgol/differential-algebraic-equations)**  
-    (placeholder — DAE example description here)
-  
-  - **[Mathematical Programming with Equilibrium Constraints (MPEC)](https://github.com/hasancatalgol/mpec)**  
-    (placeholder — MPEC example description here)
-  
-  - **[Constraint Programming (CP)](https://github.com/hasancatalgol/constraint-programming)**  
-    (placeholder — CP example description here)
-  
-  - **[Bilevel Programming](https://github.com/hasancatalgol/bilevel-programming)**  
-    (placeholder — bilevel example description here)
-  
-  - **[Robust Optimization](https://github.com/hasancatalgol/robust-optimization)**  
-    (placeholder — robust example description here)
-  
-  - **[Multiobjective Optimization](https://github.com/hasancatalgol/multiobjective-optimization)**  
-    (placeholder — multiobjective example description here)
-  
-  - **[Semidefinite Programming (SDP)](https://github.com/hasancatalgol/semidefinite-programming)**  
-    (placeholder — SDP example description here)
-  
-  - **[Second-Order Cone Programming (SOCP)](https://github.com/hasancatalgol/second-order-cone-programming)**  
-    (placeholder — SOCP example description here)
 
 ---  
 
@@ -143,46 +104,8 @@
     palceholder.
 
   - **[ARIMA Family Models](https://github.com/hasancatalgol/ts-arima)**  
-  
-  - **[Vector Autoregression (VAR)](https://github.com/hasancatalgol/ts-var)**  
-    placeholder.
-  
-  - **[Theta Method](https://github.com/hasancatalgol/ts-theta)**  
-    placeholder.
-  
-  - **[Exponential Smoothing Methods](https://github.com/hasancatalgol/ts-exponential-smoothing)**  
-    placeholder.
-  
-  - **[Gaussian Processes Regression](https://github.com/hasancatalgol/ts-gaussian-processes)**  
-    placeholder.
-  
-  - **[Generalized Additive Models (GAM)](https://github.com/hasancatalgol/ts-gam)**  
-    placeholder.
-  
-  - **[Random Forests](https://github.com/hasancatalgol/ts-random-forest)**  
-    placeholder.
-  
-  - **[Gradient Boosting Machines (GBM)](https://github.com/hasancatalgol/ts-gradient-boosting)**  
-    placeholder.
-  
-  - **[State Space Models](https://github.com/hasancatalgol/ts-state-space-models)**  
-    placeholder.
-  
-  - **[Hidden Markov Model (HMM)](https://github.com/hasancatalgol/ts-hmm)**  
-    placeholder.
-  
-  - **[Dynamic Linear Models (DLMs)](https://github.com/hasancatalgol/ts-dlm)**  
-    placeholder.
-  
-  - **[Recurrent Neural Networks (RNNs)](https://github.com/hasancatalgol/ts-rnn)**  
-    placeholder.
-  
-  - **[Long Short-Term Memory (LSTM)](https://github.com/hasancatalgol/ts-lstm)**  
-    placeholder.
-  
-  - **[Gated Recurrent Unit (GRU)](https://github.com/hasancatalgol/ts-gru)**  
-    placeholder.
-    
+
+      
 ---
 
 ## Data Structures and Algorithms Repositories
