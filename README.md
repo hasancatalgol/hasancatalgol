@@ -68,6 +68,13 @@
 
 ---
 
+## Fuzzy Logic Repositories
+    
+  - **[Mamdani-Sugeno Inference](https://github.com/hasancatalgol/fl-heart-rate)**  
+    An introduction to Fuzzy Logic with scikit-fuzzy
+
+---
+
 ## Data Engineering Repositories
   
   - **[Real-time Processing Pipeline](https://github.com/hasancatalgol/real-time-flow)**  
