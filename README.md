@@ -72,6 +72,8 @@
     
   - **[Mamdani-Sugeno Inference](https://github.com/hasancatalgol/fl-heart-rate)**  
     An introduction to Fuzzy Logic with scikit-fuzzy
+  - **[C-Means Clustering](https://github.com/hasancatalgol/fl-cmeans-clustering)**  
+    Fuzzy Logic CLustering algorithm with scikit-fuzzy
 
 ---
 
