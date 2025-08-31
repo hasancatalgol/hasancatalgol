@@ -35,9 +35,6 @@
     
   - **[MLflow Project](https://github.com/hasancatalgol/ml-postgres)**  
     End to End MLflow, Prefect, Postgres Project with Medallion Architecture
-    
-  - **[Q-Learning Game](https://github.com/hasancatalgol/checkers-qlearning)**  
-    Simple Checkers game with Reinforcement Learning
 
   - **[Customer Lifetime Value (CLV)](https://github.com/hasancatalgol/customer_lifetime_value_part1)**  
     Calculating customer lifetime value CLV 
@@ -65,6 +62,16 @@
 
   - **[Bayesian Inference](https://github.com/hasancatalgol/bayesian-statistics)**  
     Concrete Compressive Strength using probabilistic inference in PYMC
+
+---
+
+## Reinforcement Learning (RL) Repositories
+    
+  - **[Multi-Armed Bandit Problem](https://github.com/hasancatalgol/rl-multi-armed-bandit-problem)**  
+    A Comprehensive introduction to N-Armed Bandit Problem
+    
+  - **[Q-Learning Game](https://github.com/hasancatalgol/checkers-qlearning)**  
+    A simple Checkers game with Reinforcement Learning. Records every move to Postgres for analysis
 
 ---
 
