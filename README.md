@@ -69,6 +69,9 @@
     
   - **[Multi-Armed Bandit Problem](https://github.com/hasancatalgol/rl-multi-armed-bandit-problem)**  
     A Comprehensive introduction to N-Armed Bandit Problem
+
+  - **[Multi-Armed Bandit Problem](https://github.com/hasancatalgol/rl-alpha-beta-pruning)**  
+    Minimax Algorithm with Alpha-Beta Pruning
     
   - **[Q-Learning Game](https://github.com/hasancatalgol/checkers-qlearning)**  
     A simple Checkers game with Reinforcement Learning. Records every move to Postgres for analysis
