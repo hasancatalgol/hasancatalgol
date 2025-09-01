@@ -73,6 +73,9 @@
   - **[Minimax Algorithm with Alpha-Beta Pruning](https://github.com/hasancatalgol/rl-alpha-beta-pruning)**  
     An explanation of Minimax Algorithm with Alpha-Beta Pruning
     
+  - **[Tic-Tac-Toe Game](https://github.com/hasancatalgol/rl-tic-tac-toe)**  
+    A tic-tac-toe game to explain Minimax Algorithm and Alpha-Beta Pruning
+    
   - **[Q-Learning Game](https://github.com/hasancatalgol/checkers-qlearning)**  
     A simple Checkers game with Reinforcement Learning. Records every move to Postgres for analysis
 
