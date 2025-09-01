@@ -31,7 +31,7 @@
 
 ---
 
-## Machine Learning Repositories
+## Machine Learning (ML) Repositories
     
   - **[MLflow Project](https://github.com/hasancatalgol/ml-postgres)**  
     End to End MLflow, Prefect, Postgres Project with Medallion Architecture
@@ -70,7 +70,7 @@
   - **[Multi-Armed Bandit Problem](https://github.com/hasancatalgol/rl-multi-armed-bandit-problem)**  
     A Comprehensive introduction to N-Armed Bandit Problem
 
-  - **[Multi-Armed Bandit Problem](https://github.com/hasancatalgol/rl-alpha-beta-pruning)**  
+  - **[Minimax Algorithm with Alpha-Beta Pruning](https://github.com/hasancatalgol/rl-alpha-beta-pruning)**  
     An explanation of Minimax Algorithm with Alpha-Beta Pruning
     
   - **[Q-Learning Game](https://github.com/hasancatalgol/checkers-qlearning)**  
