@@ -32,6 +32,18 @@
 ---
 
 ## Machine Learning (ML) Repositories
+
+  - **[Linear Regression](https://github.com/hasancatalgol/linear-regression)**  
+    Linear Regression model predicting body measurements and assumptions in Python
+    
+  - **[KNN Classification](https://github.com/hasancatalgol/knn-classification)**  
+    Iris Setosa classification with KNN in R
+    
+  - **[Random Forest Classification](https://github.com/hasancatalgol/random-forest-classification)**  
+    Predicting term deposit subscriptions using Random Forest on the Portuguese Bank Marketing dataset in R.
+
+  - **[Bayesian Inference](https://github.com/hasancatalgol/bayesian-statistics)**  
+    Concrete Compressive Strength using probabilistic inference in PYMC
     
   - **[MLflow Project](https://github.com/hasancatalgol/ml-postgres)**  
     End to End MLflow, Prefect, Postgres Project with Medallion Architecture
@@ -50,18 +62,6 @@
 
   - **[A Streamlit Machine Learning App](https://github.com/hasancatalgol/level_based_persona_streamlit)**  
     Streamlit app visualizing level-based personas.
-
-  - **[Linear Regression](https://github.com/hasancatalgol/linear-regression)**  
-    Linear Regression model predicting body measurements and assumptions in Python
-    
-  - **[KNN Classification](https://github.com/hasancatalgol/knn-classification)**  
-    Iris Setosa classification with KNN in R
-    
-  - **[Random Forest Classification](https://github.com/hasancatalgol/random-forest-classification)**  
-    Predicting term deposit subscriptions using Random Forest on the Portuguese Bank Marketing dataset in R.
-
-  - **[Bayesian Inference](https://github.com/hasancatalgol/bayesian-statistics)**  
-    Concrete Compressive Strength using probabilistic inference in PYMC
 
 ---
 
