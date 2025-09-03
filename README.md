@@ -134,8 +134,12 @@
   - **[Traveling Salesman Problem](https://github.com/hasancatalgol/ga-traveling-salesman-problem)**  
     Solves the Traveling Salesman problem using a Genetic Algorithm built with PyGAD.
     
-   - **[Simulated Annealing](https://github.com/hasancatalgol/mh-simulated-annealing)**  
+  - **[Simulated Annealing](https://github.com/hasancatalgol/mh-simulated-annealing)**  
      Simple explanation of Simulated Annealing Algorithm
+    
+  - **[Particle Swarm Optimization](https://github.com/hasancatalgol/ds-particle-swarm-optimization)**  
+     A Particle Swarm Optimization Algorithm, tested with optimization functions
+
 
  ---   
 
